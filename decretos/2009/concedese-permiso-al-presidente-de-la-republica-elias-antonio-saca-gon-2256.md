@@ -1,0 +1,62 @@
+---
+title: CONCÉDESE PERMISO AL PRESIDENTE DE LA REPÚBLICA, ELÍAS ANTONIO SACA GONZÁLEZ, PARA ACEPTAR CONDECORACIÓN
+identifier: Decreto Legislativo N° 4
+type: decree
+jurisdiction: sv
+language: es
+date: '2009-05-13'
+diario_oficial: D.O. N° 92, Tomo 383, 21/05/2009
+materia: Asamblea Legislativa
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/2256
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073032833_archivo_documento_legislativo.pdf
+retrieved: '2026-10-13'
+---
+
+# CONCÉDESE PERMISO AL PRESIDENTE DE LA REPÚBLICA, ELÍAS ANTONIO SACA GONZÁLEZ, PARA ACEPTAR CONDECORACIÓN
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): CONCÉDESE PERMISO AL PRESIDENTE DE LA REPÚBLICA, ELÍAS ANTONIO SACA GONZÁLEZ, PARA ACEPTAR LA ORDEN RUBÉN DARÍO EN GRADO DE COLLAR CONFERIDO POR LA REPÚBLICA DE NICARAGUA.
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR ____________________________________________________________________ ___________________________________________________________________ INDICE LEGISLATIVO DECRETO Nº 4 LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I. Que el 13 de mayo de 2009, el Pleno Legislativo conoció la solicitud de los Diputados: Carmen Elena Calderón de Escalón y Rober to José d 'Aubuisson Munguía, en el sentido se conceda permiso al Presid ente de la República, Don Elías Antonio Saca González, para aceptar la Orden “Rubén Darío” en Grado de Collar, que le ha conferido el Gobierno de la República de Nicaragua.
+
+II. Que de conformidad a lo establecido en el Ordin al 23º del Art. 131 de la Constitución, es procedente concederle el permiso solicitado.
+
+POR TANTO, en uso de su facultad constitucional establecida en el Art. 131, Ordinal 23º y a iniciativa de los Diputados: Carmen Elena Calderón de Escalón y Roberto José d 'Aubuisson Munguía. DECRETA:
+
+###### Artículo 1. CONCÉDASE PERMISO AL CIUDADANO PRESIDENTE D E LA REPÚBLICA, DON ELÍAS
+
+ANTONIO SACA GONZÁLEZ, PARA ACEPTAR LA MEDALLA DE LA UNIÓN CENTROAMERICANA, QUE LE HA CONFERIDO EL GOBIERNO DE LA REPÚBLICA DE NICARAGUA.(1)
+
+###### Artículo 2. El presente Decreto entrará en vigencia ocho días después de su publicación en el Diario
+
+Oficial.
+
+DADO EN EL SALON AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los trece días del mes de mayo del año dos mil nueve.
+
+CIRO CRUZ ZEPEDA PEÑA, PRESIDENTE.
+
+OTHON SIGFRIDO REYES MORALES, ALBERTO ARMANDO ROMER O RODRÍGUEZ, VICEPRESIDENTE. VICEPRESIDENTE.
+
+JOSÉ FRANCISCO MERINO LÓPEZ, RODOLFO ANTONIO PARKER SOTO, VICEPRESIDENTE. VICEPRESIDENTE.
+
+LORENA GUADALUPE PEÑA MENDOZA, GUILLERMO ANTONIO GAL LEGOS NAVARRETE, SECRETARIA. SECRETARIO.
+
+ELIZARDO GONZÁLEZ LOVO, SANDRA MARLENE SALGADO GARCÍ A, SECRETARIO. SECRETARIA.
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR ____________________________________________________________________ ___________________________________________________________________ INDICE LEGISLATIVO FRANCISCO ROBERTO LORENZANA DURAN, ROBERTO JOSÉ d'AU BUISSON MUNGUÍA, SECRETARIO. SECRETARIO.
+
+CASA PRESIDENCIAL: San Salvador, a los veintiún días del mes de mayo del año dos mil nueve. PUBLIQUESE, ELIAS ANTONIO SACA GONZALEZ, Presidente de la República.
+
+Juan Miguel Bolaños Torres, Ministro de Gobernación.
+
+D. O. Nº 92 Tomo Nº 383 Fecha: 21 de mayo de 2009.
+
+REFORMAS:
+
+(1) D. L. No. 27, 21 MAYO DE 2009, D. O. No. 98,T. 383, 29 DE MAYO DE 2009.
+
+CGC/Adar. 09-06-2009 cgc 11-06-2009 ielp 17-11-2011

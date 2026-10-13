@@ -1,0 +1,68 @@
+---
+title: APRUÉBASE LA CARTA MODIFICATORIA A CONTRATOS DE PRÉSTAMO, SUSCRITOS CON EL BANCO INTERAMERICANO DE DESARROLLO (BID)
+identifier: Decreto Legislativo N° 198
+type: decree
+jurisdiction: sv
+language: es
+date: '2009-11-26'
+diario_oficial: D.O. N° 241, Tomo 385, 23/12/2009
+materia: Asamblea Legislativa
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/837
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073140453_archivo_documento_legislativo.pdf
+retrieved: '2026-10-13'
+---
+
+# APRUÉBASE LA CARTA MODIFICATORIA A CONTRATOS DE PRÉSTAMO, SUSCRITOS CON EL BANCO INTERAMERICANO DE DESARROLLO (BID)
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): APRUÉBASE MODIFICACIONES A CONTRATOS DE PRÉSTAMO, SUSCRITOS ENTRE EL ESTADO Y GOBIERNO DE EL SALVADOR Y EL BANCO INTERAMERICANO DE DESARROLLO (BID), MEDIANTE LA CUAL SE PERMITE CONVERTIR SALDOS PENDIENTES DE PAGO DE PRÉSTAMOS CON TASA DE INTERÉS AJUSTABLE A UNA TASA FIJA, APLICABLE A LOS CONTRATOS DE PRESTAMO NO. 653/OC-ES Y OTROS.
+
+___________________________________________________________________ INDICE LEGISLATIVO DECRETO Nº 198 LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I.- Que esta Asamblea Legislativa mediante los Decretos Nos. 252 de fecha 21 de mayo de 1992, publicado en el Diario Oficial Nº 124 Bis, Tomo Nº 316 del 7 de julio de 1992, aprobó en todas sus partes el Contrato de Préstamo 653/OC-ES suscrito el 7 de abril de 1992; Decreto Nº 406 del 9 de diciembre de 1992, publicado en el Diario Oficial Nº230, Tomo Nº 317 del 14 de diciembre de 1992, aprobó en todas sus partes el Contrato de Préstamo 714/OC-ES, suscrito el 7 de diciembre de 1992; Decreto Nº 606 del 28 de julio de 1993, publicado en el Diario Oficial Nº 166 Tomo Nº 320 del 7 de septiembre de 1993, aprobó en todas sus partes el Contrato de Préstamo 731/OC-ES suscrito el 23 de junio de 1993;
+
+Decreto Nº 675 del 6 de octubre de 1993, publicado en el Diario Oficial Nº 190, Tomo Nº 321 del 13 de octubre de 1993, aprobó en todas sus partes el Contrato de Préstamo 765/OC-ES suscrito el 25 de septiembre de 1993; Decreto Nº 650 del 29 de febrero de 1996, publicado en el Diario Oficial Nº 60, Tomo Nº 330, del 26 de marzo de 1996, aprobó en todas sus partes el Contrato de Préstamo 838/OC-ES suscrito el 8 de agosto de 1995; Decreto Nº 616 del 1 de febrero de 1996, publicado en el Diario Oficial Nº 134, Tomo Nº 332, del 18 de julio de 1996, aprobó en todas sus partes el Contrato de Préstamo 839/OC-ES suscrito el 30 de noviembre de 1995; Decreto Nº 750 del 28 de junio de 1996, publicado en el Diario Oficial Nº 138, Tomo Nº 332, del 24 de julio de 1996, aprobó en todas sus partes el Contrato de Préstamo 919/OC-ES suscrito el 26 de marzo de 1996; Decreto Nº 944 del 15 de enero de 1997, publicado en el Diario Oficial Nº 24, Tomo Nº 334, del 6 de febrero de 1997, aprobó en todas sus partes el Contrato de Préstamo 941/OC-ES suscrito el 11 de diciembre de 1996; Decreto No. 263 del 17 de enero de 2001, publicado en el Diario Oficial No. 19, Tomo No. 350, del 25 de enero de 2001, aprobó en todas sus partes el Contrato de Préstamo 1041/OC-ES suscrito el 25 de marzo de 2000; Decreto Nº 364 del 23 de julio de 1998, publicado en el Diario Oficial No. 159, Tomo Nº 340, del 28 de agosto de 1998, aprobó en todas sus partes el Contrato de Préstamo 1067/OC-ES suscrito el 14 de marzo de 1998; Decreto Nº 264 del 17 de enero de 2001, publicado en el Diario Oficial Nº 19, Tomo Nº 350, del 25 de enero de 2001, aprobó en todas sus partes el Contrato de Préstamo 1084/OC-ES suscrito el 13 de marzo de 1999; Decreto Nº 265 del 17 de enero de 2001, publicado en el Diario Oficial Nº 19, Tomo Nº 350, del 25 de enero de 2001, aprobó en todas sus partes el Contrato de Préstamo 1092/OC-ES suscrito el 13 de marzo de 1999; Decreto Nº 521 del 16 de diciembre de 1998, publicado en el Diario Oficial Nº 240, Tomo Nº 341, del 23 de diciembre de 1998, aprobó en todas sus partes el Contrato de Préstamo 1100/OC-ES suscrito el 25 de noviembre de 1998; Decreto Nº 323 del 23 de febrero de 2001, publicado en el Diario Oficial Nº 41, Tomo Nº 350, del 26 de febrero de 2001, aprobó en todas sus partes el Contrato de Préstamo 1102/OC-ES suscrito el 25 de marzo de 2000; Decreto Nº 606 del ___________________________________________________________________ INDICE LEGISLATIVO 15 de noviembre de 2001, publicado en el Diario Oficial Nº 217, Tomo Nº 353, del 16 de noviembre 2001, aprobó en todas sus partes el Contrato de Préstamo 1173/OC-ES suscrito el 25 de marzo de 2000; Decreto Nº 279 del 1 de febrero de 2001, publicado en el Diario Oficial Nº 37, Tomo Nº 350, del 20 de febrero de 2001, aprobó en todas sus partes, con las excepciones que se establecen en el mismo, el Contrato de Préstamo 1203/OC-ES suscrito el 25 de marzo de 2000;
+
+Decreto Nº 322 del 23 de febrero de 2001, publicado en el Diario Oficial Nº 41, Tomo No. 350, del 26 de febrero de 2001, aprobó en todas sus partes el Contrato de Préstamo 1209/OC-ES suscrito el 23 de febrero de 2001; Decreto Nº 621 del 23 de noviembre de 2001, publicado en el Diario Oficial Nº 240, Tomo Nº 353, del 19 de diciembre de 2001, aprobó en todas sus partes el Contrato de Préstamo 1314/OC-ES suscrito el 6 de agosto de 2001; Decreto Nº 623 del 23 de noviembre de 2001, publicado en el Diario Oficial Nº 240, Tomo No. 353, del 19 de diciembre de 2001, aprobó en todas sus partes el Contrato de Préstamo 1327/OC-ES suscrito el 20 de noviembre de 2001; Decreto No. 684 del 19 de diciembre de 2001, publicado en el Diario Oficial No. 241, Tomo No. 353, del 20 de diciembre de 2001, aprobó en todas sus partes el Contrato de Préstamo 1352/OC-ES suscrito el 10 de diciembre de 2001; Decreto No. 27 del 3 de junio de 2003, publicado en el Diario Oficial No. 124, Tomo No. 360, del 7 de julio de 2003, aprobó en todas sus partes el Contrato de Préstamo 1379/OC-ES suscrito con el Banco Interamericano de Desarrollo (BID) el 11 de enero de 2002, por un monto de Setenta Millones de Dólares de los Estados Unidos de América; contratados por la República de El Salvador con el Banco Interamericano de Desarrollo (BID).
+
+II.- Que con fecha 14 de enero de 2009, el Directorio Ejecutivo del Banco Interamericano de Desarrollo (BID) aprobó una oferta de conversión que permite convertir los saldos pendientes de pago y las sumas no desembolsadas de los préstamos con tasa de interés ajustable del Sistema de Canasta de Monedas y de la Facilidad Unimonetaria (SCM-Ajustable y FU-Ajustable), a una tasa fija en dólares estadounidenses basada en la tasa LIBOR en Dólares Estadounidenses.
+
+III.- Que la propuesta de conversión se encuentra en línea con las mejores prácticas en materia de gestión de deuda, con el objeto de disminuir el costo del financiamiento aprovechando las oportunidades que existan en el mercado para obtener condiciones más favorables, dado que ofrece tasas de interés más competitivas basadas en condición de mercado brindando mayor transparencia en el costo del financiamiento a diferencia de las tasas contractuales vigentes que se basan en el costo promedio ponderado de los empréstitos que obtiene el Banco a tasa fija flotante más un margen variable.
+
+IV.- Que aprovechando los actuales niveles de las tasas de interés de mercado, modificar la tasa de interés de los préstamos elegibles a una tasa de interés fija equivalente en dólares de los Estados Unidos de América no sólo proporcionará mayor certidumbre, sino también permitirá reducir la carga financiera en el pago futuro de intereses y eliminar la exposición al riesgo de tipo de cambio para ___________________________________________________________________ INDICE LEGISLATIVO aquellos préstamos de canasta de monedas elegibles y, en consecuencia, liberar presión de la caja fiscal.
+
+V.- Que en virtud de lo anterior, procede aprobar en todas sus partes, la Carta Modificatoria de fecha 11 de junio de 2009, suscrita por el Ministro de Hacienda y por la Representante del Banco Interamericano de Desarrollo (BID) en El Salvador, mediante la cual se permite realizar las conversiones a las tasas de interés de los Contratos de Préstamos Elegibles.
+
+POR TANTO, en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
+
+###### Artículo 1
+
+Apruébase en todas sus partes, la Carta Modificatoria suscrita por el Ministro de Hacienda y la Representante del Banco Interamericano de Desarrollo (BID) para El Salvador, firmada el día 11 de junio de 2009, mediante la cual se permite convertir los saldos pendientes de pago y las sumas no desembolsadas de los préstamos con tasa de interés ajustable del Sistema de Canasta de Monedas y de la Facilidad Unimonetaria (SCM-Ajustable y FU-Ajustable), a una tasa fija en dólares estadounidenses basada en la Tasa de Interés LIBOR en Dólares Estadounidenses, de los Contratos de Préstamo 653/OC-ES aprobado mediante Decreto 252 de fecha 21 de mayo de 1992, publicado en el Diario Oficial Nº 124 Bis, Tomo No. 316 del 7 de julio de 1992; 714/OC-ES aprobado mediante Decreto Nº 406 del 9 de diciembre de 1992, publicado en el Diario Oficial No. 230, Tomo Nº 317 del 14 de diciembre de 1992; 731/OC-ES aprobado mediante Decreto No. 606 del 28 de julio de 1993, publicado en el Diario Oficial Nº 166, Tomo No. 320 del 7 de septiembre de 1993; 765/OC-ES aprobado mediante Decreto Nº 675 del 6 de octubre de 1993, publicado en el Diario Oficial No. 190, Tomo No. 321 del 13 de octubre de 1993; 838/OC-ES aprobado mediante Decreto No. 650 del 29 de febrero de 1996, publicado en el Diario Oficial No. 60, Tomo No. 330, del 26 de marzo de 1996; 839/OC-ES aprobado mediante Decreto No. 616 del 1 de febrero de 1996, publicado en el Diario Oficial No. 134, Tomo No.332, del 18 de julio de 1996; 919/OC-ES aprobado mediante Decreto No. 750 del 28 de junio de 1996, publicado en el Diario Oficial No. 138, Tomo No. 332, del 24 de julio de 1996; 941/OC-ES-2 aprobado mediante Decreto No. 944 del 15 de enero de 1997, publicado en el Diario Oficial No. 24, Tomo No.334, del 6 de febrero de 1997; 1041/OC-ES aprobado mediante Decreto No. 263 del 17 de enero de 2001, publicado en el Diario Oficial No. 19, Tomo No.350, del 25 de enero de 2001; 1067/OC-ES aprobado mediante Decreto No. 364 del 23 de julio de 1998, publicado en el Diario Oficial No. 159, Tomo Nº 340, del 28 de agosto de 1998; 1084/OC-ES-1 aprobado mediante Decreto No. 264 del 17 de enero de 2001, publicado en el Diario Oficial No. 19, Tomo No. 350, del 25 de enero de 2001; 1092/OC-ES-1 aprobado mediante Decreto No. 265 del 17 de enero de 2001, publicado en el Diario Oficial No. 19, Tomo Nº 350, del 25 de enero de 2001; 1100/OC-ES-2 aprobado mediante Decreto No. 521 del 16 de diciembre de 1998, publicado en el Diario Oficial No. 240, Tomo Nº 341, del 23 de diciembre de 1998; 1102/OC-ES-2 aprobado mediante Decreto Nº 323 del 23 de febrero de 2001, publicado en el Diario Oficial Nº 41, Tomo Nº350, del 26 de febrero de 2001; 1173/OC-ES aprobado mediante Decreto Nº 606 del 15 de noviembre de 2001, publicado en el Diario Oficial Nº 217, Tomo Nº353, del 16 de noviembre de 2001; 1203/OC-ES aprobado mediante Decreto Nº 279 del 1 de febrero de 2001, publicado en el Diario Oficial Nº 37, Tomo Nº350, del 20 de febrero de 2001; 1209/OC-ES ___________________________________________________________________ INDICE LEGISLATIVO aprobado mediante Decreto Nº 322 del 23 de febrero de 2001, publicado en el Diario Oficial No. 41, Tomo No.350, del 26 de febrero de 2001; 1314/OC-ES aprobado mediante Decreto Nº 621 del 23 de noviembre de 2001, publicado en el Diario Oficial Nº 240, Tomo No. 353, del 19 de diciembre de 2001; 1327/OC-ES aprobado mediante Decreto Nº 623 del 23 de noviembre de 2001, publicado en el Diario Oficial Nº 240, Tomo Nº353, del 19 de diciembre de 2001; 1352/OC-ES aprobado mediante Decreto Nº 684 del 19 de diciembre de 2001, publicado en el Diario Oficial Nº 241, Tomo Nº 353, del 20 de diciembre de 2001; 1379/OC-ES-1 aprobado mediante Decreto Nº 27 del 3 de junio de 2003, publicado en el Diario Oficial Nº 124, Tomo No.360, del 7 de julio de 2003; contratados por la República de El Salvador con el Banco Interamericano de Desarrollo (BID).
+
+###### Artículo 2
+
+El presente Decreto entrará en vigencia desde el día de su publicación en el Diario Oficial.
+
+DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los veintiséis días del mes de noviembre del año dos mil nueve.
+
+CIRO CRUZ ZEPEDA PEÑA, PRESIDENTE.
+
+OTHON SIGFRIDO REYES MORALES, GUILLERMO ANTONIO GALLEGOS NAVARRETE, PRIMER VICEPRESIDENTE. SEGUNDO VICEPRESIDENTE.
+
+JOSÉ FRANCISCO MERINO LÓPEZ, ALBERTO ARMANDO ROMERO RODRÍGUEZ, TERCER VICEPRESIDENTE. CUARTO VICEPRESIDENTE.
+
+FRANCISCO ROBERTO LORENZANA DURAN, QUINTO VICEPRESIDENTE.
+
+LORENA GUADALUPE PEÑA MENDOZA, CESAR HUMBERTO GARCÍA AGUILERA, PRIMERA SECRETARIA. SEGUNDO SECRETARIO.
+
+ELIZARDO GONZÁLEZ LOVO, ROBERTO JOSÉ d'AUBUISSON MUNGUÍA, TERCER SECRETARIO. CUARTO SECRETARIO.
+
+SANDRA MARLENE SALGADO GARCÍA, IRMA LOURDES PALACIOS VÁSQUEZ, QUINTA SECRETARIA. SEXTA SECRETARIA. MIGUEL ELÍAS AHUES KARRA, SÉPTIMO SECRETARIO.
+
+CASA PRESIDENCIAL: San Salvador, a los catorce días del mes de diciembre del año dos mil nueve. ___________________________________________________________________ INDICE LEGISLATIVO PUBLIQUESE, CARLOS MAURICIO FUNES CARTAGENA, PRESIDENTE DE LA REPÚBLICA.
+
+JUAN RAMÓN CARLOS ENRIQUE CÁCERES CHÁVEZ, MINISTRO DE HACIENDA.
+
+D. O. Nº 241 Tomo Nº 385 Fecha: 23 de diciembre de 2009 SV/ielp 22-01-2010

@@ -1,0 +1,106 @@
+---
+title: LEY DE PROTECCIÓN Y REHABILITACIÓN PROFESIONAL DEL PERSONAL CON DISCAPACIDAD DE LA FUERZA ARMADA
+identifier: Decreto Legislativo N° 791
+type: act
+jurisdiction: sv
+language: es
+date: '1991-04-25'
+diario_oficial: D.O. N° 98, Tomo 311, 30/05/1991
+materia: Fuerza Armada
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/352
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/0F220C15-2088-4517-9591-76F3B7F54A22.pdf
+retrieved: '2026-10-13'
+---
+
+# LEY DE PROTECCIÓN Y REHABILITACIÓN PROFESIONAL DEL PERSONAL CON DISCAPACIDAD DE LA FUERZA ARMADA
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): TIENE POR OBJETO RECONOCER EL SACRIFICIO DE QUIENES HAN VISTO SENSIBLEMENTE DISMINUIDA SU CAPACIDAD FÍSICA POR DEFENDER LOS MÁS PRECIADOS VALORES DEMOCRÁTICOS DE LA NACIÓN.
+
+INDICE LEGISLATIVO 1 DECRETO N° 791 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I.- Que como consecuencia del conflicto armado que vive el país, un significativo número de elementos de la Fuerza Armada han sufrido lesiones invalidantes al cumplir con su deber de defender la soberanía del Estado y proteger a la ciudadanía.
+
+II.- Que el Instituto de Previsión Social de la Fuerza Armada desarrolla amplios programas de rehabilitación profesional en favor de dicho personal, los cuales tienen u n costo superior a las posibilidades de ser financiados con las cotizaciones de sus afiliados.
+
+III.- Que constituye una obligación del Estado reconocer el sacrificio de quienes han visto sensiblemente di sminuida su capacidad física por defender los más preciados valores democráticos de la Nación.
+
+POR TANTO, en uso de sus facultades Constitucionales y a iniciativa de los Diputados: Mercedes Gloria Salguero Gross, Ricardo Alberto Alvarenga Valdivieso, Jesús Alberto Vargas Elías, Jorge Alberto Carranza Alvarez, Reynaldo Quintanilla Prado, Carlos Alfredo Hernández, Horacio Humberto Ríos Orellana, Porfirio Luis Ángel Lagos, Edgar Enrique Gómez, Enrique Amaya Rosa, Guillermo Antonio Guevara Lacayo, Morena Disnarda Cruz de Chavarría y Macla Judith Romero de Torres.
+
+DECRETA la siguiente:
+
+LEY DE PROTECCIÓN Y REHABILITACIÓN PROFESIONAL DEL PERSONAL CON DISCAPACIDAD DE LA FUERZA ARMADA (2)
+
+## CAPÍTULO I — OBJETO Y CAMPO DE APLICACIÓN
+
+###### Artículo 1
+
+LA PRESENTE LEY TENDRÁ POR OBJETO, DICTAR LAS NORMAS QUE PERMITAN UNA MAYOR PARTICIPACIÓN DEL ESTADO EN LA ATENCIÓN Y PROTECCIÓN AL PERSONAL CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DE LA FUERZA ARMADA DE EL SALVADOR; Y COADYUVAR EN EL DESARROLLO DEL PROGRAMA DE REHABILITACIÓN DEL PERSONAL DE LA FUERZA ARMADA. (1) (2)
+
+###### Artículo 2
+
+LAS DISPOSICIONES DE LA PRESENTE LEY SE APLICARÁN EN FAVOR DE TODOS LOS MIEMBROS DE LA FUERZA ARMADA, QUE POR CAUSA DE LESIONES CONTRAÍDAS EN ACTOS DEL SERVICIO O A CONSECUENCIA DEL MISMO, HUBIEREN QUEDADO CON ALGÚN GRADO DE DISCAPACIDAD Y FUEREN SUJETOS DEL PROGRAMA DE REHABILITACIÓN DEL PERSONAL DE LA FUERZA ARMADA. (1) (2) INDICE LEGISLATIVO 2
+
+## CAPÍTULO II — NORMAS DE PROTECCIÓN SOCIAL
+
+###### Artículo 3
+
+LAS DEPENDENCIAS DEL ESTADO QUE PAGAREN LOS SALARIOS DE SU PERSONAL CON CARGO AL PRESUPUESTO GENE RAL DE LA NACIÓN, ASÍ COMO LAS I NSTITUCIONES OFICIALES AUTÓNOMAS Y SEMIAUTÓNOMAS DEBERÁN EMPLEAR DE ACUERDO A LAS COMPETENCIAS QUE TUVIEREN, AL PERSONAL QUE HUBIERE CONCLUIDO SU PROCESO DE REHABILITACIÓN PROFESIONAL, A FIN DE CONTRIBUIR A SU REINCORPORACIÓN A LA VIDA ACTIVA DEL PAÍS. EN LA OCUPACIÓN DE AQUELLOS CARGOS DONDE NO SE REQUIERE, PARA SU CUMPLIMIENTO, UN MAYOR ESFUERZO FÍSICO, SE DARÁ PRIORIDAD AL PERSONAL CON DISCAPACIDAD POR LO MENOS UN DOS POR CIENTO DEL TOTAL DE EMPLEADOS, DE CADA DEPENDENCIA, DEBERÁ INTEGRARSE CON DICHO PERSONAL. (2)
+
+###### Artículo 4
+
+El personal que recibiere una parcela agrícola a título de indemnización por parte del IPSFA, la adquirirá bajo el régimen de bien de familia por un período de diez años. Las operaciones de compraventa de dichos inmuebles, no causarán impuestos de ninguna especie.
+
+###### Artículo 5
+
+LAS MICROEMPRESAS QUE ADQUIRIEREN LAS PERSONAS CON DISCAPACIDAD CON EL PRODUCTO DE LA INDEMNIZACIÓN A QUE SE REFIERE EL ARTÍCULO ANTERIOR, ESTARÁN EXENTAS DE TODO TIPO DE IMPUESTOS FISCALES. (2)
+
+## CAPÍTULO III — APORTES
+
+###### Artículo 6
+
+FACÚLTASE AL ÓRGANO EJECUTIVO PARA QUE, A TRAVÉS DEL MINISTERIO DE HACIENDA, PREVIO A LOS ESTUDIOS ACTUARIALES RELATIVOS AL COSTO DEL PROGRAMA DE REHABILITACIÓN DEL PERSONAL DE LA FUERZA ARMADA, CONSIGNE EN EL PRESUPUESTO GENERAL DE LA NACIÓN DE CADA AÑO, LA PARTIDA CORRESPONDIENTE AL APORTE DEL ESTADO EN EL RAMO DE LA DEFENSA NACIONAL, PARA APOYAR EL FINANCIAMIENTO DE DICHO PROGRAMA. (1) (2)
+
+###### Artículo 7. EL FONDO DEL PROGRAMA DE REHABILITACIÓN DEL PERSONAL DE LA FUERZA
+
+ARMADA, ADMINISTRADO POR EL CENTRO FARMACÉUT ICO DE LA FUERZA ARMADA, PODRÁ INCREMENTARSE CON DONATIVOS DEL ESTADO O DE PARTICULARES, PRÉSTAMOS DE INSTITUCIONES FINANCIERAS NACIONALES O INTERNACIONALES Y CON OTROS INGRESOS QUE SE OBTENGAN A CUALQUIER TÍTULO, PREVIO CUMPLIMIENTO DE LOS PROCESOS ESTABLECIDOS POR LA LEY. (1) (2)
+
+## CAPÍTULO IV — VIGENCIA
+
+###### Artículo 8
+
+EL PRESIDENTE DE LA REPÚBLICA DEBERÁ EMITIR, EN UN PLAZO DE 60 DÍAS HÁBILES, EL REGLAMENTO DE LA PRESENTE LEY. (2)
+
+###### Artículo 9. El presente Decreto entrará en vigencia ocho días después de su publicación en el Diario
+
+Oficial.
+
+INDICE LEGISLATIVO 3 DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los veinticinco días del mes de abril de mil novecientos noventa y uno.
+
+RICARDO ALBERTO ALVARENGA VALDIVIESO, PRESIDENTE.
+
+LUIS ROBERTO ANGULO SAMAYOA, JULIO ADOLFO REY PRENDES, VICEPRESIDENTE. VICEPRESIDENTE.
+
+MAURICIO ZABLAH, MERCEDES GLORIA SALGUERO GROSS, SECRETARIO. SECRETARIO.
+
+RAÚL MANUEL SOMOZA ALFARO, NÉSTOR ARTURO RAMÍREZ PALACIOS, SECRETARIO. SECRETARIO.
+
+DOLORES EDUVIGES HENRÍQUEZ, MACLA JUDITH ROMERO DE TORRES, SECRETARIO. SECRETARIO. CASA PRESIDENCIAL: San Salvador, a los dos días del mes de mayo de mil novecientos noventa y uno.
+
+PUBLÍQUESE, Alfredo Félix Cristiani Burkard, Presidente de la República.
+
+Rene Emilio Ponce, Ministro de Defensa y Seguridad Pública.
+
+D. O. N° 98 Tomo N° 311 Fecha: 30 de mayo de 1991 MHSC/ngcl REFORMAS:
+
+(1) D. L. No. 898, 24 DE ENERO DE 2018;
+
+D. O. No. 29, T. 418, 12 DE FEBRERO DE 2018.
+
+(2) D.L. No. 258, 28 DE FEBRERO DE 2019;
+
+D.O. No. 56, T. 422, 21 DE MARZO DE 2019.
+
+SV 23/03/18 VD 31/05/19

@@ -1,0 +1,90 @@
+---
+title: ESTABLÉCESE LÍMITES TERRITORIALES ENTRE LOS MUNICIPIOS DE EL PARAÍSO Y SAN RAFAEL, AMBOS DEL DEPARTAMENTO DE CHALATENANGO
+identifier: Decreto Legislativo N° 843
+type: decree
+jurisdiction: sv
+language: es
+date: '2017-11-29'
+diario_oficial: D.O. N° 233, Tomo 417, 13/12/2017
+materia: Gobierno Local
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/3279
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/75332213-D18F-4A6D-9999-0E08C3BA245C.pdf
+retrieved: '2026-10-13'
+---
+
+# ESTABLÉCESE LÍMITES TERRITORIALES ENTRE LOS MUNICIPIOS DE EL PARAÍSO Y SAN RAFAEL, AMBOS DEL DEPARTAMENTO DE CHALATENANGO
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): ESTABLÉCESE LÍMITES TERRITORIALES ENTRE LOS MUNICIPIOS DE EL PARAÍSO Y SAN RAFAEL, AMBOS DEL DEPARTAMENTO DE CHALATENANGO.
+
+___________________________________________________________________ INDICE LEGISLATIVO DECRETO N° 843 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I.- Que la existente delimitación entre los Municipios que comprenden el Departamento de Chalatenango, no se ajusta al presente desarrollo de la tecnología en materia registral y de medición territorial, como tampoco a las vigentes circunstancias de desarrollo social y económico del país.
+
+II.- Que con la tecnología registral y los modelos fotogramétricos actualmente disponibles por el Centro Nacional de Registros, es posible la realización de una delimitación y demarcación precisa de dichos límites.
+
+III.- Que se ha desarrollado un proceso de diálogo entre las municipalidades involucradas con la asistencia del Centro Nacional de Registros y del Instituto Geográfico y del Catastro Nacional, llegando así de esta manera a la elaboración y firma del Acta de Lím ite Municipal EL PARAÍSO – SAN RAFAEL con referencia No. 0410- 0431, la cual se toma como base para el contenido del presente Decreto y se anexa como parte integral del mismo.
+
+IV.- Que de conformidad al A rt. 131 Ordinal 5° de la Constitución, es competencia de este Órgano del Estado decretar, interpretar auténticamente, reformar y derogar Leyes secundarias.
+
+POR TANTO, en uso de sus facultades Constitucionales y a iniciativa de los Diputados Mario Antonio Ponce López, Ricardo Ernesto Godoy Peñate , Juan Manuel de Jesús Flores Cornejo, Valentín Arístides Corpeño, Norman Noel Quijano González, Carlos Alberto García Ruiz, Ana Lucía Baires de Martínez, Guadalupe Antonio Vásquez Martínez, Juan Pablo Herrera Rivas y Cristina Esmeralda López.
+
+DECRETA:
+
+###### Artículo 1
+
+Se establece como límite entre los Municipios de El Paraíso y San Rafael ambos del Departamento de Chalatenango, el siguiente:
+
+El trazo del límite está compuesto por cinco trayectos. El primer trayecto, formado por dos tramos, determinado por tres puntos, numerados del uno al tres, por elemento natural hidrográfico; el segundo trayecto, formado por un solo tramo, determinado por dos puntos, numerados del tres al cuatro, por linderos de parcelas; el tercer trayecto, formado por un solo tramo, dete rminado por dos puntos, numerados del cuatro al cinco, por elemento natural hidrográfico; el cuarto trayecto , formado por un solo tramo, determinado por dos puntos, numerados del cinco al seis, por vía de comunicación terrestre; el quinto y último trayecto , formado por tres tramos, determinado por cuatro puntos, numerados del seis al nueve, por elemento natural hidrográfico.
+
+La medición de las coordenadas correspondientes a la Longitud y Latitud de cada uno de los puntos que conforman el límite, se ha rea lizado sobre la información catastral del sistema ___________________________________________________________________ INDICE LEGISLATIVO antiguo, debido a que en la zona, específicamente en el Departamento de Chalatenango, aún no se ha realizado la actualización de la base catastral.
+
+Punto trifinio de inicio. Está definido en la intercepción de la prolongación del lindero sur de la parcela cuatrocientos cuarenta y cuatro, con el eje central del Rio Grande, de la hoja catastral cero cuatro trescientos ochenta y dos cero cuatro quinientos, lugar donde se ubica el punto número uno, al mismo tiempo punto trifinio, para los Municipios de Tejutla, San Rafael y El Paraíso, todos del Departamento de Chalatenango. Sus coordenadas son Longitud igual, cuatrocientos noventa y un mil doscientos cuarenta punto treinta y dos metros; Latitud igual, trescientos treinta y cuatro mil seiscientos setenta punto cincuenta y nueve metros. Sus colindantes son, para el Municipio de Tejutla, parcela ochenta y uno, de la hoja catastral cero cuatro trescientos oche nta y dos cero cuatro quinientos; para el Municipio de San Rafael, parcelas cuatrocientos cuarenta y cuatro y ciento doce, ambas de la hoja catastral cero cuatro trescientos ochenta y dos cero nueve quinientos y para el Municipio de El Paraíso, parcela cie nto treinta y siete, de la hoja catastral cero cuatro trescientos ochenta y dos cero nueve quinientos.
+
+Trayecto Uno Tramo uno, del punto número uno al punto número dos. Con rumbo Sureste, en línea sinuosa, por el eje central del Río Grande, aguas abajo, hasta la desembocadura por su margen izquierda de la Quebrada La Galera, lugar donde se ubica el punto número dos, con una distancia aproximada de mil novecientos sesenta y ocho punto ochenta y nueve metros. Sus coordenadas son Longitud igual, cuatrocientos noventa y dos mil ciento cuarenta y cuatro punto noventa y tres metros; Latitud igual, trescientos treinta y tres mil trescientos cincuenta y tres punto sesenta y dos metros. Sus colindantes son, para el Municipio de El Paraíso, p arcelas ciento treinta y siete, uno, tres, cinco, ochenta y uno, ochenta y dos, noventa y uno, noventa, ochenta y nueve, ochenta y ocho, ochenta y siete, noventa y dos, ochenta y cinco y ciento noventa y dos, todas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos; para el Municipio de San Rafael, parcelas cuatrocientos cuarenta y cuatro, ciento doce, cuatrocientos treinta y dos, ciento sesenta y cinco, ciento setenta y seis, ciento setenta y ocho, ciento setenta y siet e, ciento setenta y cinco y ciento ochenta (porción Poniente), todas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos.
+
+Tramo dos, del punto número dos al punto número tres. Con rumbo Noroeste, en línea sinuosa, por el eje central de la Quebrada La Galera, aguas arriba, hasta interceptar la prolongación del lindero de propiedad que divide las parcelas ciento ochenta y uno y ciento noventa, ambas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos, lugar donde se ubica el punto número tres, con una distancia aproximada de trescientos treinta punto cincuenta y dos metros. Sus coordenadas son Longitud igual, cuatrocientos noventa y dos mil sesenta y tres punto veintiséis metros; Latitud igual trescientos treinta y tres mil seiscientos cincuenta punto ochenta y seis metros. Sus colindantes son, para el Municipio de El Paraíso, parcela ciento oc henta (porción Oriente) y ciento noventa, ambas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos; para el Municipio de San Rafael, parcela ciento ochenta (porción Poniente), de la hoja catastral número cero cuatro tre scientos ochenta y dos cero nueve quinientos.
+
+Trayecto Dos Tramo único, del punto número tres al punto número cuatro. Con rumbo Noreste, en línea quebrada, por linderos de parcelas, hasta interceptar el eje central de la Quebrada El Maneadero, lugar don de se ubica el punto número cuatro, con una distancia aproximada de mil setecientos cuarenta y cinco punto sesenta y cinco metros. Sus coordenadas son Longitud igual, cuatrocientos noventa y tres mil seiscientos doce punto ochenta y tres metros; Latitud ig ual, trescientos treinta y ___________________________________________________________________ INDICE LEGISLATIVO tres mil quinientos noventa y uno punto treinta y cuatro metros. Sus colindantes son, para el Municipio de El Paraíso, parcelas ciento ochenta (porción Oriente), ciento noventa, setecientos sesenta y dos (porción Sur) y setecient os cincuenta y ocho (porción Sur), todas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos; para el Municipio de San Rafael, parcelas ciento ochenta y uno, ciento ochenta y dos, setecientos sesenta y dos (porción Norte) y setecientos cincuenta y ocho (porción Norte), todas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos.
+
+Trayecto Tres Tramo único, del punto número cuatro al punto número cinco. Con rumbo Sureste, en línea sinuosa, por el eje central de la Q uebrada El Maneadero, aguas abajo, hasta interceptar el eje central de la carretera que desde el desvío “El Tablón” conduce al pueblo de San Rafael, específicamente en el lugar conocido como la “Bóveda El Maneadero”, lugar donde se ubica el punto número ci nco, con una distancia aproximada de dos mil veintiuno punto noventa y ocho metros. Sus coordenadas son Longitud igual, cuatrocientos noventa y tres mil ochocientos ochenta y uno punto cuarenta y seis metros; Latitud igual, trescientos treinta y dos mil do scientos cuarenta y cuatro punto ochenta y dos metros. Sus colindantes son, para el Municipio de El Paraíso, parcelas setecientos cincuenta y ocho (porción Sur), doscientos cincuenta y cinco (porción poniente), doscientos sesenta y seis, seiscientos cincue nta y uno y cuatrocientos cincuenta y nueve, todas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos; para el Municipio de San Rafael, parcelas doscientos cincuenta y dos, doscientos cincuenta y uno, doscientos cincuen ta y cinco (porción Oriente), doscientos sesenta, doscientos sesenta y dos, doscientos sesenta y tres, mil setenta y seis y doscientos sesenta y ocho, todas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos.
+
+Trayecto Cuatro Tramo único, del punto número cinco al punto número seis. Con rumbo Este, en línea sinuosa, por el eje central de la carretera que desde el desvío “El Tablón” conduce al pueblo de San Rafael, hasta interceptar el eje central del Río Las Minas, específicamente en el puente “Las Minas”, lugar donde se ubica el punto número seis, con una distancia aproximada de cuatrocientos dieciséis punto sesenta metros. Sus coordenadas son Longitud igual, cuatrocientos noventa y cuatro mil doscientos noventa y cuat ro punto sesenta metros; Latitud igual, trescientos treinta y dos mil doscientos veintiocho punto noventa y un metros. Sus colindantes son, para el Municipio de El Paraíso, parcelas seiscientos quince, seiscientos catorce, trescientos dos y trescientos tre s, todas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos; para el Municipio de San Rafael, parcelas doscientos sesenta y ocho, doscientos sesenta y nueve, doscientos setenta, quinientos catorce, quinientos quince y d oscientos setenta y dos, todas de la hoja catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos. Trayecto Cinco Tramo uno, del punto número seis al punto número siete. Con rumbo Sureste, en línea sinuosa, por el eje central del Río Las Minas, aguas abajo, hasta interceptar el eje central de la Carretera Longitudinal del Norte (CA -3), específicamente en la “Bóveda Las Minas”, lugar donde se ubica el punto número siete, con una distancia aproximada de tres mil doscientos ocho punto cincuenta y dos metros. Sus coordenadas son Longitud igual, cuatrocientos noventa y cuatro mil cuatrocientos ochenta y nueve punto cuarenta y tres metros; Latitud igual, trescientos treinta mil trescientos setenta y cinco punto treinta y ocho metros. Sus c olindantes son, para el Municipio de El Paraíso, parcelas trescientos tres, doscientos noventa y seis, doscientos noventa y cinco, doscientos noventa y ocho, trescientos cinco, mil trescientos veintitrés, trescientos cincuenta y cuatro, trescientos cincuen ta y cinco, mil noventa y seis, y mil ochenta y nueve, todas de la hoja ___________________________________________________________________ INDICE LEGISLATIVO catastral número cero cuatro trescientos ochenta y dos cero nueve quinientos; para el Municipio de San Rafael, parcelas doscientos noventa, mil trescientos quince, mil trescientos diec iocho, todas de la hoja catastral cero cuatro trescientos ochenta y dos cero nueve quinientos, parcelas mil quinientos ochenta y dos, dos mil ciento sesenta y nueve, doscientos treinta y nueve y mil ciento sesenta, todas de la hoja catastral cero cuatro tr escientos ochenta y dos diez quinientos, parcela doscientos noventa y nueve, de la hoja catastral cero cuatro trescientos ochenta y dos cero nueve quinientos, parcelas mil ciento sesenta y siete, mil ciento sesenta y ocho y doscientos veinticuatro, todas de la hoja catastral cero cuatro trescientos ochenta y dos diez quinientos, parcelas dos, mil cuatrocientos setenta y ocho y cuatro, todas de la hoja catastral número cero cuatro trescientos ochenta y dos quince quinientos, parcela doscientos, de la hoja ca tastral número cero cuatro trescientos ochenta y dos catorce quinientos.
+
+Tramo dos, del punto número siete al punto número ocho. Con rumbo Suroeste, en línea sinuosa, por el eje central del Río Las Minas, aguas abajo, hasta interceptar la cota topográfic a doscientos cuarenta y tres del Embalse Cerrón Grande, la cual ha establecido la Comisión Ejecutiva Hidroeléctrica del Río Lempa CEL, referido específicamente al nivel de agua. Lugar donde se ubica el punto número ocho, con una distancia aproximada de och ocientos setenta y cuatro punto noventa metros. Sus coordenadas son Longitud igual, cuatrocientos noventa y cuatro mil diecinueve punto cincuenta metros; Latitud igual, trescientos veintinueve mil setecientos veinte punto cuarenta y dos metros. Sus colinda ntes son, para el Municipio de El Paraíso, parcelas mil ciento veinte y cuatrocientos treinta y nueve, ambas de la hoja catastral número cero cuatro trescientos ochenta y dos catorce quinientos; para el Municipio de San Rafael, parcelas seiscientos veintiséis, seiscientos cuarenta y cinco, cuatrocientos dieciocho y ciento noventa y nueve, todas de la hoja catastral número cero cuatro trescientos ochenta y dos catorce quinientos.
+
+Tramo tres, del punto número ocho al punto número nueve. Con rumbo Sureste, en línea sinuosa, por el eje central del antiguo cauce del Río Las Minas, aguas abajo, hasta su desembocadura sobre el antiguo cauce del Río El Potrero, cubierta actualmente por el Embalse Presa Cerrón Grande, lugar donde se ubica el punto número nueve, co n una distancia aproximada de tres mil trescientos veinticinco punto dieciocho metros. Sus coordenadas son Longitud igual, cuatrocientos noventa y tres mil ochocientos cuarenta y ocho punto cero cuatro metros; Latitud igual, trescientos veintisiete mil cie nto noventa y siete punto veintisiete metros. Sus colindantes son, para el Municipio de El Paraíso, parcelas doscientos cinco, treinta y nueve, doscientos setenta y uno, mil ciento treinta y siete, noventa y dos, noventa y tres, ciento ochenta y dos, cient o ochenta y nueve, seiscientos noventa y siete, ciento ochenta y seis, todas de la hoja catastral número cero cuatro trescientos ochenta y dos catorce quinientos y una porción del espejo de agua de la zona inundada por el Embalse de la Presa Cerrón Grande, identificada con el código catastral número cincuenta mil treinta y siete, de la hoja catastral número cero cuatro trescientos ochenta y dos trece quinientos; para el Municipio de San Rafael, parcelas ciento noventa y nueve, ciento cuatro, doscientos cuatro, todas de la hoja catastral número cero cuatro trescientos ochenta y dos catorce quinientos y una porción del espejo de agua de la zona inundada por el Embalse de la Presa Cerrón Grande, identificada con el código catastral número cincuenta mil treinta y siete, de la hoja catastral número cero cuatro trescientos ochenta y dos trece quinientos.
+
+Punto trifinio de llegada. El punto de llegada será el que se describe como punto número nueve, el cual al mismo tiempo es trifinio, para los Municipios de San Rafael, Santa Rita y El Paraíso, todos del Departamento de Chalatenango. Sus colindantes son, para los Municipios de San Rafael, Santa Rita y El Paraíso, el espejo de agua de la zona inundada por el Embalse de la Presa Cerrón Grande, identificada con el código catastral número cincuenta mil treinta y siete, de la hoja catastral número cero cuatro trescientos ochenta y dos trece quinientos.
+
+###### Artículo 2
+
+El presente Decreto entrará en vigencia ocho días después de su publicación en el Diario Oficial.
+
+___________________________________________________________________ INDICE LEGISLATIVO DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los veintinueve días del mes de noviembre del año dos mil diecisiete.
+
+GUILLERMO ANTONIO GALLEGOS NAVARRETE, PRESIDENTE.
+
+LORENA GUADALUPE PEÑA MENDOZA, DONATO EUGENIO VAQUERANO RIVAS, PRIMERA VICEPRESIDENTA. SEGUNDO VICEPRESIDENTE.
+
+JOSÉ FRANCISCO MERINO LÓPEZ, RODRIGO ÁVILA AVILÉS, TERCER VICEPRESIDENTE. CUARTO VICEPRESIDENTE.
+
+SANTIAGO FLORES ALFARO, QUINTO VICEPRESIDENTE.
+
+GUILLERMO FRANCISCO MATA BENNETT, RENÉ ALFREDO PORTILLO CUADRA, PRIMER SECRETARIO. SEGUNDO SECRETARIO.
+
+FRANCISCO JOSÉ ZABLAH SAFIE, REYNALDO ANTONIO LÓPEZ CARDOZA, TERCER SECRETARIO. CUARTO SECRETARIO.
+
+JACKELINE NOEMÍ RIVERA ÁVALOS, SILVIA ESTELA OSTORGA DE ESCOBAR, QUINTA SECRETARIA. SEXTA SECRETARIA.
+
+MANUEL RIGOBERTO SOTO LAZO, JOSÉ SERAFÍN ORANTES RODRÍGUEZ, SÉPTIMO SECRETARIO. OCTAVO SECRETARIO.
+
+CASA PRESIDENCIAL: San Salvador, a los ocho días del mes de diciembre del año dos mil diecisiete.
+
+PUBLÍQUESE, Salvador Sánchez Cerén, Presidente de la República.
+
+Ramón Arístides Valencia Arana, Ministro de Gobernación y Desarrollo Territorial.
+
+D. O. N° 233 Tomo N° 417 Fecha: 13 de diciembre de 2017 SO/adar 12-01-2018

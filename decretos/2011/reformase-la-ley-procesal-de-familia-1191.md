@@ -1,0 +1,78 @@
+---
+title: REFÓRMASE LA LEY PROCESAL DE FAMILIA
+identifier: Decreto Legislativo N° 767
+type: decree
+jurisdiction: sv
+language: es
+date: '2011-06-23'
+diario_oficial: D.O. N° 136, Tomo 392, 20/07/2011
+materia: Sistema Judicial
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/1191
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073248396_archivo_documento_legislativo.pdf
+retrieved: '2026-10-13'
+---
+
+# REFÓRMASE LA LEY PROCESAL DE FAMILIA
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): REFÓRMASE LA LEY PROCESAL DE FAMILIA EN SU ART. 206, EN EL SENTIDO DE AMPLIAR LAS FACULTADES DE LOS JUECES DE PAZ.
+
+___________________________________________________________________ INDICE LEGISLATIVO DECRETO Nº 767 LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I.- Que el artículo 32 de la Constitución de la Repú blica, establece que la familia es la base fundamental de la sociedad y tendrá la protección del Estado, para lo cual dictará la legislación necesaria y creará los organismos y servicios apropiados para su integración, bienestar y desarrollo social, cultural y económico.
+
+II.- Que por medio de Decreto Legislativo Nº 133, de fecha 14 de septiembre de 1994, publicado en el Diario Oficial Nº 173, Tomo N º 324, de fecha 20 de septiembre de 1994, se emitió la Ley Procesal de Fa milia, cuyo objeto es establecer la normativa procesal para hacer efectiv os los derechos y deberes regulados en el Código de Familia y otras leyes sobre la materia.
+
+III.- Que el artículo 206 de la Ley Procesal de Fami lia, no responde a las necesidades actuales en materia de protección familiar, por lo que es indispensable armonizar dicha disposición con las reformas emitidas al Código de Familia, en el sentido de ampliar las facultades de las y los Jueces de Paz sobre las diligencias que se deben llevar a cabo respecto de las audiencias conciliatorias, establecimiento de medidas cautelares y ejecución de acuerdos conciliatorios entre otros.
+
+POR TANTO, en uso de sus facultades constitucionales y a iniciativa de las Diputadas y los Diputados: Lorena Guadalupe Peña Mendoza, Marta Lorena Araujo, José Alvaro Cornejo Mena, Emma Julia Fabián Hernández, Mildred Guadalupe Machado, Gilberto Rivera Mejía, Sonia Margarita Rodríguez Sigüenza; y con el apoyo de las Diputadas y los Diputados: Othon Sigfrido Re yes Morales, Alberto Armando Romero Rodríguez, Roberto José d'Aubuisson Munguía, Irma Lourdes Pala cios Vásquez,Félix Agreda Chachagua, Ernesto Antonio Angulo Milla, Federico Guillermo Ávila Qüeh l, Eduardo Enrique Barrientos Zepeda, Yohalmo Edmundo Cabrera Chacón, Reynaldo Antonio López Cardoza, Carlos Cortez Hernández, Santos Eduviges Crespo Chavez, Rosa Alma Cruz de Henriquez, Carmen Elena Calderón Sol de Escalón, Lucia del Carmen Ayala de León, Nery Arely Díaz de Rivera, Antonio E cheverría Veliz, Margarita Escobar, Carmen Elena Figueroa Rodríguez, Santiago Flores Alfaro, Eduardo Antonio Gomar Morán, Medardo González Trejo, Ricardo Bladimir González, Jorge Schafik Handal Vega Silva, Rafael Antonio Jarquín Larios, Gladis Marina Landaverde Paredes, Benito Antonio Lara Fernández, Hortensia Margarita López Quintana, Alejandro Dagoberto Marroquín, Mario Marroquín Mejía, Guillermo Francisco Mata Bennett, Alexander Higinio Melchor López, Juan Carlos Mendoza Portillo, Manuel Vicente Menjivar Esquivel, Heidy Carolina Mira Saravia, Edgar Alfonso Montoya Martínez, Guillermo Antonio Olivo Méndez, José Serafín Orantes Rodríguez, María Irma Elizabeth Orellana Osorio, Rubén Orellana, Orestes Fredesman Ortez Andrade, Rodolfo Antonio Parker Soto, Mariela Peña Pinto, Mario Antonio Ponce López, Gasp ar Armando Portillo Benitez, Zoila Beatriz Quijada Solís, Carlos Armando Reyes Gómez, Inmar Rolando Reyes, Cesar René Florentín Reyes Dheming, Jackeline Noemí Rivera Avalos, José Mauricio Rivera, Pedrina Rivera Hernández, David Rodríguez Rivera, Ana Silvia Romero Vargas, Cesar Humberto Solorzano Dueñas, Man uel Rigoberto Soto Lazo, Enrique Alberto Luis Valdés Soto, Jaime Gilberto Valdez Hernández, Ramón Arístides Valencia Arana, Mario Eduardo Valiente ___________________________________________________________________ INDICE LEGISLATIVO Ortiz, Esdras Samuel Vargas Pérez, Guadalupe Antonio Vásquez Martínez, María Margarita Velado Puentes, Ana Daysi Villalobos de Cruz, Ciro Alexis Zepeda Menjivar.
+
+DECRETA la siguiente:
+
+REFORMA A LA LEY PROCESAL DE FAMILIA
+
+###### Artículo 1
+
+Refórmase el artículo 206 de la siguiente manera: “Art. 206.- Los Jueces de Paz conocerán en materia de familia de las siguientes diligencias:
+
+a) De audiencias conciliatorias sobre:
+
+1. El cuidado personal y el régimen de comunicación y trato de las niñas, niños y adolescentes.
+
+2. La fijación de cuota alimentaria.
+
+3. La liquidación del régimen patrimonial del matrim onio.
+
+b) Decretar medidas cautelares, especialmente las de protección respecto de cualquiera de los miembros de la familia.
+
+c) La ejecución de los acuerdos conciliatorios y res oluciones sobre las materias señaladas.
+
+d) La práctica de cualquiera diligencia que les enco mienden los Tribunales de Familia.
+
+###### Artículo 2. El presente Decreto entrará en vigencia ocho días después de su publicación en el Diario
+
+Oficial.
+
+DADO EN EL SALON AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los veintitrés días del mes de junio del año dos mil once.
+
+OTHON SIGFRIDO REYES MORALES, PRESIDENTE.
+
+CIRO CRUZ ZEPEDA PEÑA, GUILLERMO ANTONIO GALLEGOS NA VARRETE, PRIMER VICEPRESIDENTE. SEGUNDO VICEPRESIDENTE.
+
+JOSÉ FRANCISCO MERINO LÓPEZ, ALBERTO ARMANDO ROMERO RODRÍGUEZ, TERCER VICEPRESIDENTE. CUARTO VICEPRESIDENTE.
+
+FRANCISCO ROBERTO LORENZANA DURAN, QUINTO VICEPRESIDENTE. ___________________________________________________________________ INDICE LEGISLATIVO LORENA GUADALUPE PEÑA MENDOZA, CESAR HUMBERTO GARCÍA AGUILERA, PRIMERA SECRETARIA. SEGUNDO SECRETARIO.
+
+ELIZARDO GONZÁLEZ LOVO, ROBERTO JOSÉ d'AUBUISSON MU NGUÍA, TERCER SECRETARIO. CUARTO SECRETARIO.
+
+QUINTA SECRETARIA. IRMA LOURDES PALACIOS VÁSQUEZ, SEXTA SECRETARIA.
+
+MARIO ALBERTO TENORIO GUERRERO, SÉPTIMO SECRETARIO.
+
+CASA PRESIDENCIAL: San Salvador, a los dieciocho días del mes de julio del año dos mil once. PUBLIQUESE, Carlos Mauricio Funes Cartagena, Presidente de la República.
+
+José Manuel Melgar Henríquez, Ministro de Justicia y Seguridad Pública, D. O. Nº 136 Tomo Nº 392 Fecha: 20 de julio de 2011.
+
+JCH/adar 17-08-2011

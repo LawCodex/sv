@@ -1,0 +1,204 @@
+---
+title: LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO
+identifier: Decreto Legislativo N° 761
+type: act
+jurisdiction: sv
+language: es
+date: '1993-12-15'
+diario_oficial: D.O. N° 2, Tomo 322, 04/01/1994
+materia: Régimen Administrativo
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/2152
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/86F2C9B8-93B3-46E8-AB17-9CBB980D66C2.pdf
+retrieved: '2026-10-13'
+---
+
+# LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): TIENE COMO FINALIDAD REGULAR LA COMPENSACIÓN ADICIONAL EN EFECTIVO QUE DEBERÁ CONCEDERSE EN EL MES DE DICIEMBRE A TODO EL PERSONAL CIVIL Y MILITAR DE LA ADMINISTRACIÓN PÚBLICA.
+
+ÍNDICE LEGISLATIVO 1 DECRETO N1 761 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I. Que la compensación adicional en efectivo que cada año se otorga a los servidores públicos, es motivo de decreto en cada Ejercicio Fiscal por no existir legislación permanente que regule el otorgamiento de dicha prestación;
+
+II. Que es conveniente, en beneficio de los servidores del Estado, emitir las disposiciones legales de carácter permanente que regulen la prestación laboral a que se refiere el considerando anterior, es tableciendo que, además de la inembargabilidad que tradicionalmente se ha consignado en el correspondiente decreto, la percepción de la mencionada compensación adicional en efectivo no será objeto de retención para pago del Impuesto sobre la Renta;
+
+POR TANTO, en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA la siguiente:
+
+LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO
+
+###### Artículo 1
+
+LA PRESENTE LEY TIENE POR OBJETO REGULAR LA COMPENSACIÓN ADICIONAL EN EFECTIVO QUE DEBERÁ CONCEDERSE ENTRE LOS MESES DE OCTUBRE Y DICIEMBRE DE CADA AÑO, A TODO EL PERSONAL CIVIL Y MILITAR, AL SERVICIO DE LA ADMINISTRACIÓN PÚBLICA. (1)
+
+###### Artículo 2. LA COMPENSACIÓN ADICIONAL SEÑALADA EN EL ARTÍCULO ANTE RIOR, SERÁ
+
+CONCEDIDA A TODO EL PERSONAL, QUE DURANTE EL MES DE OCTUBRE SE ENCUENTRE PRESTANDO SERVICIO CON NOMBRAMIENTO EN LEY DE SALARIOS, POR CONTRATO O POR JORNALES. (1)
+
+###### Artículo 3
+
+PARA TENER DERECHO A LA COMPENSACIÓN ADICIONAL, ES INDISPENSABLE QUE EL BENEFICIARIO ESTÉ EN SERVICIO EN EL MES DE OCTUBRE, QUE HAYA COMPLETADO DURANTE EL AÑO QUE CORRESPONDA, SEIS MESES DE PRESTAR SERVICIOS AL ESTADO, Y QUE, DENTRO DEL MISMO AÑO, NO HAYA TENIDO PENAS DE SUSPENSIÓN QUE EXCEDAN DE UN MES POR FALTAS EN EL SERVICIO O QUE, POR EL MISMO MOTIVO, SE LE HAYA DESTITUIDO DE CUALQUIER DEPENDENC IA O INSTITUCIÓN GUBERNAMENTAL. (1) Para el cómputo de los seis meses no se tomará en cuenta como tiempo de servicio las suspensiones, ni las licencias sin goce de sueldo que se hayan disfrutado, salvo cuando sean por motivo de enfermedad.
+
+Al beneficiario de la compensación adicional que no alcanzare a completar los seis meses de servicio a que se refiere este artículo, pero tuviere un mes por lo menos, se le reconocerá la parte proporcional que resulte, según el tiempo laborado, de la cantidad que le hubiere correspondido en caso de haber tenido seis meses de servicio.
+
+ÍNDICE LEGISLATIVO 2 LOS SERVIDORES PÚBLICOS QUE EN EL MES DE OCTUBRE SE ENCUENTREN DESEMPEÑANDO PLAZAS CREADAS EN CUALQUIER ÉPOCA DEL AÑO, TENDRÁN DERECHO A LA COMPENSACIÓN ADICIONAL, SIEMPRE QUE, AL PASAR A OCUPAR DICHAS PLAZAS, HAYAN ESTADO AL SERVICIO DEL ESTADO, AUN CUANDO SU REMUNERACIÓN SE LE HAYA RECONOCIDO A BASE DE CONTRATO O POR MEDIO DE PLANILLA DE JORNALES. EN ESTOS CASOS, PA RA COMPLETAR LOS SEIS MESES DE SERVICIO, SE SUMARÁN TANTO EL PERÍODO DE DESEMPEÑO DE LAS PLAZAS CREADAS COMO EL TIEMPO QUE CORRESPONDA A LAS OTRAS FORMAS DE PAGO QUE SE HAN MENCIONADO. (1) Para el cálculo de los seis meses de servicio, en el caso de servicios prestados a base de contrato, se tomará en cuenta el tiempo trabajado con anterioridad al período servido por contrato, en plazas de Ley de Salarios o remunerada en forma de jornal.
+
+###### Artículo 4. LOS SERVIDORES PÚBLICOS QUE EN EL MES DE OCTUBRE SE ENCUENTREN HACIENDO
+
+USO DE LICENCIA CON GOCE DE SUELDO POR CUALQUIER MOTIVO LEGAL O DE LICENCIA SIN GOCE DE SUELDO POR ENFERMEDAD TENDRÁN DERECHO A LA COMPENSACIÓN ADICIONAL EN EFECTIVO. (1) Los empleados sustitutos interinos gozarán de la compensación adicional en la plaza desempeñada interinamente, de conformidad a las regulaciones que se establecen en la presente Ley.
+
+###### Artículo 5
+
+Cuando un servidor público devengue más de un sueldo, solamente percibirá una compensación adicional que le será otorgada en el empleo de mayor salario.
+
+###### Artículo 6
+
+Las instituciones decentralizadas que hayan suscrito contratos colectivos de trabajo o que tengan regulación especial contenida en Decreto Legislativo vigente, aplicarán las normas que sean más beneficiosas para sus respectivos servidores públicos.
+
+###### Artículo 7
+
+La compensación adicional en efectivo establecida en esta Ley es inembargable. La percepción de dicha compensación no será objeto de retención para efectos del pago de impuestos sobre la renta.
+
+###### Artículo 8
+
+Se establece como cantidad máxima a pagar en concepto de compensación adicional en efectivo, a partir de 1994 el equivalente al ciento cincuenta por ciento del salario mínimo de los trabajadores del Comercio, Industria y Servicios vigente al 30 de junio del año recién anterior al año de la compensación adicional a otorgar a los servidores públicos.
+
+###### Artículo 9
+
+EL SERVIDOR PÚBLICO QUE AL MES DE OCTUBRE DEL AÑO CORRESPONDIENTE AL PAGO DE LA COMPENSACIÓN ADICIONAL SE ENCUENTRE DEVENGANDO UN SALARIO INFERIOR A LA COMPENSACIÓN QUE SE INDICA EN EL ANTERIOR ARTÍCULO, PERCIBIRÁ LA PRESTACIÓN HASTA EL LÍMITE DEL SALARIO QUE DEVENGUE EN DICHO MES. (1)
+
+###### Artículo 10
+
+La legalización de los documentos fiscales necesarios para el pago de la compensación adicional en efectivo establecido por la presente Ley, se hará por los mismos funcionarios que legalicen los documentos correspondientes a las remuneraciones del mes de diciembre, imputandose las erogaciones a las respectivas asignaciones presupuestarias y su pago lo harán las pagadurías o tesorerí as que corresponda.
+
+###### Artículo 11. LOS PAGOS REFERENTES A LA COMPENSACIÓN ADICIONAL EN EFECTIVO PODRÁN
+
+REALIZARSE ENTRE EL VEINTE DE OCTUBRE Y EL VEINTE DE DICIEMBRE DE CADA AÑO, SIN QUE, EN NINGÚN CASO PUEDA EXCEDERSE DE LA FECHA LÍMITE DE PAGO.
+
+ÍNDICE LEGISLATIVO 3 EL MINISTERIO DE HACIENDA, COMO ENTIDAD RECTORA EN EL MANEJO DE LAS FINANZAS PÚBLICAS, ESTABLECERÁ A TRAVÉS DEL ACUERDO EJECUTIVO CORRESPONDIENTE, LAS FECHAS EN LAS QUE DEBERÁ MATERIALIZARSE EL PAGO DE ESTA COMPENSACIÓN, DENTRO DEL PERÍODO A QUE SE REFIERE EL INCISO ANTERIOR. (1)
+
+###### Artículo 11-A
+
+AUTORÍZASE AL MINISTERIO DE HACIENDA, PARA QUE, EN CASO DE SER NECESARIO, POR SÍ, O A TRAVÉS DE CUALQUIERA DE SUS DIRECCIONES, PUEDA EMITIR LOS ACUERDOS, INSTRUCTIVOS, CIRCULARES, RESOLUCIONES, GUÍAS O CUALQUIER OTRO INSTRUMENTO DE ÍNDOLE ADMINISTRATIVO, CON LA FINALIDAD DE FACILITAR Y VIABILIZAR LA APLICACIÓN DE LO DISPUESTO EN LA PRESENTE LEY. (1)
+
+###### Artículo 12
+
+Para los fines de la presente Ley, facúltase al Órgano Ejecutivo en el Ramo de Hacienda para que, con cargo a las economías obtenidas en salarios durante el año a que corresponda la compensación adicional a pagar, autorice transferencias entre asignaciones o ajustes entre Clases Generales, dentro de una misma Unidad Primaria de Organización o Institución descentralizada, de conformidad con los procedimientos establecidos.
+
+###### Artículo 13. Los Ministerios de Hacienda y de la Defensa Nacional y Policía y Cuerpo de Bomberos
+
+Nacionales, la Corte de Cuentas de la República, y la Dirección General de Tesorería, según corresponda, podrán impartir las instrucciones que fueren necesarias para facilitar el pago de la compensación adicional establecida por la presente Ley.
+
+###### Artículo 14
+
+Las disposiciones de esta Ley no son aplicables a los trabajadores que se encuentren laborando en obras del Estado que se lleven a cabo por contratistas, cuando éstos sean los obligados al pago de las remuneraciones correspondientes.
+
+###### Artículo 15
+
+(Transitorio). La compensación adicional para el año 1994 se otorgará así: Ciento Cincuenta Colones en el mes de enero y Un Mil Doscientos Cuarenta y Cinco Colones durante el mes de diciembre.
+
+###### Artículo 16
+
+Deróganse los Decretos Legislativos N1 98 del 14 de noviembre de 1991, publicado en el Diario Oficial N1 216, Tomo 313 del 19 del mismo mes y año, y N1 374 de fecha 19 de noviembre de 1992, publicado en el Diario Oficial N1 217, Tomo 317 del 25 del mismo mes y año.
+
+###### Artículo 17. El presente decreto entrará en vigencia ocho días después de su publicación en el Diario
+
+Oficial.
+
+DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los quince días del mes de diciembre de mil novecientos noventa y tres.
+
+LUIS ROBERTO ANGULO SAMAYOA PRESIDENTE CIRO CRUZ ZEPEDA PEÑA RUBÉN IGNACIO ZAMORA RIVAS VICEPRESIDENTE VICEPRESIDENTE MERCEDES GLORIA SALGUERO GROSS VICEPRESIDENTE RAÚL MANUEL SOMOZA ALFARO SILVIA GUADALUPE BARRIENTOS ESCOBAR SECRETARIO SECRETARIO ÍNDICE LEGISLATIVO 4 JOSÉ RAFAEL MACHUCA ZELAYA RENÉ MARIO FIGUEROA FIGUEROA SECRETARIO SECRETARIO REYNALDO QUINTANILLA PRADO SECRETARIO CASA PRESIDENCIAL: San Salvador a los veintiún días del mes de diciembre de mil novecientos noventa y tres.
+
+PUBLÍQUESE, ALFREDO FÉLIX CRISTIANI BURKARD, Presidente de la República.
+
+EDWIN SAGRERA, Ministro de Hacienda.
+
+D. O. N1 2 Tomo N1 322 Fecha: 4 de enero de 1994 MHSC REFORMA:
+
+(1) D. L. No. 434, 15 DE OCTUBRE DE 2025;
+
+D. O. No. 194, T. 449, 15 DE OCTUBRE DE 2025.
+
+REFORMA TRANSITORIA:
+
+D. L. No. 188, 11 DE DICIEMBRE DE 1997;
+
+D. O. No. 240, T. 337, 23 DE DICIEMBRE DE 1997.
+
+## DISPOSICIONES TRANSITORIAS:  DISPOSICIÓN ESPECIAL TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA EL AÑO 2009, LOS INGRESOS QUE EN CONCEPTO
+
+DE AGUINALDO, RECIBEN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 215, 3 DE DICIEMBRE DE 2009;
+
+D. O. No. 228, T. 385, 4 DE DICIEMBRE DE 2009.  ESTABLÉCESE COMO RENTA NO GRAVADA, PARA EL AÑO 2009, TODA COMPENSACIÓN EN EFECTIVO PAGADA AL TRABAJADOR ASALARIADO EN CONCEPTO DE AGUINALDO, CUANDO NO SOBREPASE DE DOS SALARIOS MÍNIMOS.
+
+D. L. No. 228, 16 DE DICIEMBRE DE 2009;
+
+D. O. No. 241, T. 385, 23 DE DICIEMBRE DE 2009.  DISPOSICIÓN ESPECIAL TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA EL AÑO 2010, LOS INGRESOS QUE EN CONCEPTO DE AGUINALDO, RECIB EN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 530, 2 DE DICIEMBRE DE 2010;
+
+D. O. No. 228, T. 389, 06 DE DICIEMBRE DE 2010.
+
+ÍNDICE LEGISLATIVO 5  DISPOSICIÓN ESPECIAL TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA EL AÑO 2011, LOS INGRESOS QUE EN CONCEPTO DE AGUINALDO, RECIBEN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 926, 23 DE NOVIEMBRE DE 2011;
+
+D. O. No. 220, T. 393, 24 DE NOVIEMBRE DE 2011.  DISPOSICIÓN TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA 2012, LOS INGRESOS QUE EN CONCEPTO DE AGUINALDO, RECIBEN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 212, 28 DE NOVIEMBRE DE 2012;
+
+D. O. No. 229, T. 397, 6 DE DICIEMBRE DE 2012.  DISPOSICIÓN TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA 2013, LOS INGRESOS QUE EN CONCEPTO DE AGUINALDO, RECIBEN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 561, 28 DE NOVIEMBRE DE 2013;
+
+D. O. No. 226, T. 401, 3 DE DICIEMBRE DE 2013.  DISPOSICIÓN TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA 2014, LOS INGRESOS QUE EN CONCEPTO DE AGUINALDO, RECIBEN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 877, 27 DE NOVIEMBRE DE 2014;
+
+D. O. No. 227, T. 405, 4 DE DICIEMBRE DE 2014.  DISPOSICIÓN TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA 2015, LOS INGRESOS QUE EN CONCEPTO DE AGUINALDO, RECIBEN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 177, 12 DE NOVIEMBRE DE 2015;
+
+D. O. No. 216, T. 409, 24 DE NOVIEMBRE DE 2015.  DISPOSICIÓN TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA 2016, LOS INGRESOS QUE EN CONCEPTO DE AGUINALDO, RECIBEN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 540, 17 DE NOVIEMBRE DE 2016;
+
+D. O. No. 224, T. 413, 1 DE DICIEMBRE DE 2016.  DISPOSICIÓN TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA 2017, LOS INGRESOS QUE, EN CONCEPTO DE AGUINALDO, RECIBEN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 831, 8 DE NOVIEMBRE DE 2017;
+
+D. O. No. 215, T. 417, 17 DE NOVIEMBRE DE 2017.
+
+ÍNDICE LEGISLATIVO 6  DISPOSICIÓN TRANSITORIA A EFECTO DE EXIMIR DE LA RETENCIÓN DE IMPUESTO SOBRE LA RENTA PARA 2018, LOS INGRESOS QUE, EN CONCEPTO DE AGUINALDO, RECIBEN LOS TRABAJADORES A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO.
+
+D. L. No. 160, 24 DE OCTUBRE DE 2018;
+
+D. O. No. 209, T. 421, 8 DE NOVIEMBRE DE 2018.  DISPOSICIONES TRANSITORIAS QUE DECLARAN COMO RENTA NO GRAVABLE Y EN CONSECUENCIA EXCLUIDAS DE LA RETENCIÓN RESPECTIVA, LOS AGUINALDOS A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO, HASTA UN LÍMITE DE $1,100.
+
+D. L. No. 229, 7 DE DICIEMBRE DE 2021;
+
+D. O. No. 233, T. 433, 7 DE DICIEMBRE DE 2021.  DISPOSICIONES TRANSITORIAS QUE DECLARAN COMO RENTA NO GRAVABLE Y EN CONSECUENCIA EXCLUIDAS DE LA RETENCIÓN RESPECTIVA, EL AGUINALDO A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO, HASTA UN LÍMITE DE UN MIL QUINIENTOS DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA.
+
+D. L. No. 596, 7 DE DICIEMBRE DE 2022;
+
+D. O. No. 231, T. 437, 7 DE DICIEMBRE DE 2022.  DISPOSICIONES TRANSITORIAS QUE DECLARAN COMO RENTA NO GRAVABLE Y EN CONSECUENCIA EXCLUIDAS DE LA RETENCIÓN RESPECTIVA, EL AGUINALDO A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO, HASTA UN LÍMITE DE $1,500.00.
+
+D. L. No. 900, 29 DE NOVIEMBRE DE 2023;
+
+D. O. No. 225, T. 441, 30 DE NOVIEMBRE DE 2023.  DISPOSICIONES TRANSITORIAS QUE DECLARAN COMO RENTA NO GRAVABLE Y EN CONSECUENCIA EXCLUIDAS DE LA RETENCIÓN RESPECTIVA, EL AGUINALDO A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO, HASTA UN LÍMITE DE $1,500.00.
+
+D. L. No. 159, 26 DE NOVIEMBRE DE 2024;
+
+D. O. No. 227, T. 445, 27 DE NOVIEMBRE DE 2024.  DISPOSICIONES TRANSITORIAS, QUE DECLARAN PARA EL EJERCICIO FISCAL DE DOS MIL VEINTICINCO, COMO RENTA NO GRAVABLE Y EN CONSECUENCIA EXCLUIDAS DE LA RETENCIÓN RESPECTIVA, EL AGUINALDO A QUE SE REFIERE EL CÓDIGO DE TRABAJO Y LA LEY SOBRE LA COMPENSACIÓN ADICIONAL EN EFECTIVO, HASTA UN LÍMITE DE UN MIL QUINIENTOS DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA D. L. No. 432, 15 DE OCTUBRE DE 2025;
+
+D. O. No. 194, T. 449, 15 DE OCTUBRE DE 2025.
+
+## DISPOSICIÓN RELACIONADA:  LEY ESPECIAL QUINCENA VEINTICINCO. D. L. N° 499, 14 DE ENERO DE 2026;
+
+D. O. N° 8, T. 450, 14 DE ENERO DE 2026.
+
+ÍNDICE LEGISLATIVO 7 SV 03/02/10 SV 10/01/17 AJA 22/10/25 JCH 15/12/10 GM 19/12/17 NGC 22/10/25 JCH 13/12/11 GH 05/12/18 NGC 19/01/26 RM 14/01/13 GM 14/12/21 FN 13/01/14 SV 15/12/22 JQ 12/01/15 AR 01/12/23 SP 16/12/15 GM 12/12/24

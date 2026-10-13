@@ -1,0 +1,106 @@
+---
+title: REFÓRMASE LA LEY DE PRESUPUESTO 2023, EN DIFERENTES RAMOS E INSTITUCIONES DEL SECTOR PÚBLICO, POR $94,624,135.00
+identifier: Decreto Legislativo N° 839
+type: decree
+jurisdiction: sv
+language: es
+date: '2023-09-05'
+diario_oficial: D.O. N° 166, Tomo 440, 07/09/2023
+materia: Hacienda y Presupuesto
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/5686
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/DDA06EE5-842C-4AB6-85D6-BB6CB78B4F54.pdf
+retrieved: '2026-10-13'
+---
+
+# REFÓRMASE LA LEY DE PRESUPUESTO 2023, EN DIFERENTES RAMOS E INSTITUCIONES DEL SECTOR PÚBLICO, POR $94,624,135.00
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): REFÓRMASE LA LEY DE PRESUPUESTO 2023, A EFECTO DE REFORZAR ASIGNACIONES PRESUPUESTARIAS DE DIFERENTES INSTITUCIONES DEL SECTOR PÚBLICO, POR LA CANTIDAD DE $94,624,135.00, CON EL OBJETO DE ATENDER DIVERSAS NECESIDADES URGENTES Y PRIORITARIAS.
+
+DECRETO No. 839 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I. Que mediante Decreto Legislativo No. 628, de fecha 22 de diciembre de 2022, publicado en el Diario Oficial No. 245, Tomo No. 437 del 27 del mismo mes y año, se aprobó la Ley de Presupuesto General del Estado para el Ejercicio Fiscal 2023, por un valor de OCHO MIL NOVECIENTOS DOS MILLONES SEISCIENTOS CINCUENTA Y TRES MIL SEISCIENTOS SETENTA Y DOS 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$8,902,653,672.00);
+
+II. Que durante el presente ejercicio fiscal han surgido diversas necesidades urgentes y prioritarias en varias Instituciones del Gobierno Central que requieren cobertura presupuestaria para el cumplimiento de los objetivos y metas institucionales y que totalizan un monto de NOVENTA Y CUATRO MILLONES SEISCIENTOS VEINTICUATRO MIL CIENTO TREINTA Y CINCO 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$94,624,135.00) con cargo al Fondo Gene ral, los cuales estarán distribuidos de la siguiente manera: NUEVE MILLONES DOSCIENTOS MIL 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$9,200,000.00) para el Ramo de Relaciones Exteriores para financiar gastos de funcionamiento para el período de se ptiembre a diciembre del presente año, de las diferentes Representaciones Diplomáticas y Consulares acreditadas en el exterior y gastos relacionados con la apertura de la Embajada Consular en Riad, Arabia Saudita; VEINTE MILLONES 00/100 DÓLARES DE LOS ESTA DOS UNIDOS DE AMÉRICA (US$20,000,000.00) para el Ramo de la Defensa Nacional para financiar las actividades desarrolladas en el marco del Plan Control Territorial;
+
+III. Que actualmente el Ramo de Justicia y Seguridad Pública requiere de un refuerzo presupuestario por VEINTIDÓS MILLONES DOSCIENTOS DOS MIL SETECIENTOS OCHENTA 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$22,202,780.00), con el propósito de complementar el financiamiento del servicio de alimentación de privados de libertad por US$17,036,160, cubrir la contratación de servicios de telecomunicaciones para el monitoreo del Sistema de Vigilancia para privados de libertad, a través de dispositivos electrónicos (brazaletes) por un valor de US$315,000, y otros gastos de funcionamiento por US$4,851,620; y QUINCE MILLONES 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$15,000,000.00), para el Ramo de Educación, Ciencia y Tecnología para el cumplimiento de los objetivos y metas de los centros escolares de educación básica en todo el país;
+
+IV. Que el Ramo de Salud solicita un monto de NUEVE MILLONES NOVECIENTOS MIL 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$9,900,000.00) para financiar el pago de nocturnidades y vacaciones del personal que presta sus servicios en los diferentes establ ecimientos de salud, de conformidad a lo establecido en el Decreto Legislativo No. 697, de fecha 30 de marzo de 2023, publicado en el Diario Oficial No. 115, Tomo No. 439 del 21 de junio del presente año;
+
+V. Que el Ramo de Cultura solicita el monto de DIEZ M ILLONES CUATROCIENTOS CINCUENTA Y SIETE MIL CUARENTA 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$10,457,040.00), a efecto de dar cobertura a diferentes necesidades relacionadas con el inicio del funcionamiento de la Biblioteca Nacional de El Salvad or, tales como, adquisición de libros, pago de servicios básicos, contratación de servicios profesionales, compra de mobiliario, equipo y licencias informáticas, entre otros;
+
+VI. Que actualmente el Ramo de Economía requiere de TRES MILLONES CIENTO SEIS MIL OC HENTA 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$3,106,080.00) para dar cobertura a diferentes gastos de funcionamiento orientados a impactar en la innovación y competitividad empresarial, el impulso del comercio exterior, y la facilitación de las inversiones, entre otros, así como, para financiar el funcionamiento de la Agencia Administradora de Fondos Bitcoin; y el Ramo de Agricultura y Ganadería solicita CUATRO MILLONES SETECIENTOS CINCUENTA Y OCHO MIL DOSCIENTOS TREINTA Y CINCO 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$4,758,235.00) para financiar gastos de funcionamiento que permitan garantizar el cumplimiento de políticas y estrategias agropecuarias, además, de la ejecución de los procesos de desarrollo humano, tecnológico, administr ativo y organizacional en el marco de su Plan Estratégico Institucional;
+
+VII. Que de conformidad a lo prescrito en el artículo 226 de la Constitución de la República, el Ministerio de Hacienda con base a la eficiencia administrativa en la recaudación tributaria y al combate de la evasión fiscal, ha registrado excedentes de ingresos en concepto del Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios con relación a las estimaciones programadas al mes de agosto del presente año, lo que per mite contar con disponibilidades financieras para cubrir las necesidades antes relacionadas, hasta por el monto de NOVENTA Y CUATRO MILLONES SEISCIENTOS VEINTICUATRO MIL CIENTO TREINTA Y CINCO 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$94,624,135.00);
+
+VIII. Que con el propósito que las diferentes Instituciones del Sector Público No Financiero puedan hacer uso de los recursos antes mencionados hasta por el monto de US$94,624,135.00, se requiere reformar la Ley de Presupuesto vigente, en los términos siguientes, en la Sección A - Presupuesto General del Estado, Apartado II – INGRESOS, se incrementa el Rubro 11 Impuestos, Cuenta 114 Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios , con la cantidad de NOVENTA Y CUATRO MILLONES SEISCIENTOS VEINTICUATRO MIL CIENTO TREINTA Y CINCO 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$94,624,135.00); asimismo, en el Apartado III – GASTOS, se incorpora estructura presupuestaria y se incrementan las asignaciones vigentes de distintas Instituciones del Sector Público No Financiero, así: Ramo de Relaciones Exteriores con NUEVE MILLONES DOSCIENTOS MIL 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$9,200,000.00), Ramo de la Defensa Nacional con VEINTE MILLONES 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$20,000,000.00), Ramo de Justicia y Seguridad Pública con VEINTIDÓS MILLONES DOSCIENTOS DOS MIL SETECIENTOS OCHENTA 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$22,202,780.00), Ramo de Educación, Ciencia y Tecnología con QUINCE MILLONES 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA; (US$15,000,000.00), Ramo de Salud con NUEVE MILLONES NOVECIENTOS MIL 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$9,900,000.00); Ramo de Cultura con DIEZ MILLONES CUATROCIENTOS CIN CUENTA Y SIETE MIL CUARENTA 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$10,457,040.00); Ramo de Economía con TRES MILLONES CIENTO SEIS MIL OCHENTA 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$3,106,080.00) y finalmente el Ramo de Agricultura y Ganadería con CUATRO MILLONES SETECIENTOS CINCUENTA Y OCHO MIL DOSCIENTOS TREINTA Y CINCO 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$4,758,235.00) en la Fuente de Financiamiento Fondo General; además, en la Sección B. Presupuestos Especiales, Apartado B.1 Instituciones Descentralizadas No Empresariales, Romano II – GASTOS, se incorpora el Presupuesto Especial de la Agencia Administradora de Fondos Bitcoin por UN MILLÓN OCHOCIENTOS NOVENTA Y CINCO MIL OCHOCIENTOS VEINTE 00/100 DÓLARES DE LOS ESTA DOS UNIDOS DE AMÉRICA (US$1,895,820.00), que incluye UN MILLÓN 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$1,000,000.00) de Recursos Propios.
+
+POR TANTO, en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
+
+###### Artículo 1
+
+En la Ley de Presupuesto vigente, Sección A - PRESUPUESTO GENERAL DEL ESTADO, Apartado II – INGRESOS, se incrementa el Rubro 11 Impuestos, Cuenta 114 Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios, con la cantidad de de NOVENTA Y CUATRO MILLONES SEISCIENTOS VEINTICUATRO MIL CIENTO TREINTA Y CINCO 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$94,624,135.00); asimismo, en el Apartado III – GASTOS, se incorpora estructura presupuestaria y se refuerzan las asignaciones vigentes de diversas Instituciones del Sector Público No Financiero, conforme se indica a continuación: 0800 RAMO DE RELACIONES EXTERIORES
+
+4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Fina nciamiento y Destino Económico Unidad Presupuestaria y Cifrado Presupuestario Línea de Trabajo 54 Adquisiciones de Bienes y Servicios 55 Gastos Financieros y Otros Gastos Corrientes 02 Atención a la Diáspora y Movilidad Humana 4,000,000 400,000 4,400,000 2023-0800-1-02-02-21-1 Fondo General Representaciones Consulares 4,000,000 400,000 4,400,000 03 Administración de Política Internacional e Integración 4,700,000 100,000 4,800,000 2023-0800-1-03-02-21-1 Fondo General Representaciones Diplomáticas 4,700,000 100,000 4,800,000 Total 8,700,000 500,000 9,200,000 0900 RAMO DE LA DEFENSA NACIONAL
+
+4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico Unidad Presupuestaria y Cifrado Presupuestario Línea de Trabajo 54 Adquisiciones de Bienes y Servicios Gastos Corrientes 02 Gestión Operativa Institucional 20,000,000 20,000,000 2023-0900-1-02-01-21-1 Fondo General Operaciones del Ejército y de Apoyo Institucional 20,000,000 20,000,000 Total 20,000,000 20,000,000 2400 RAMO DE JUSTICIA Y SEGURIDAD PÚBLICA
+
+4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico Unidad Presupuestaria y Cifrado Presupuestario Línea de Trabajo 54 Adquisiciones de Bienes y Servicios Gastos Corrientes 07 Administración del Sistema Penitenciario 22,202,780 22,202,780 2023-2400-2-07-01-21-1 Fondo General Reclusión y Rehabilitación 22,202,780 22,202,780 Total 22,202,780 22,202,780 3100 RAMO DE EDUCACIÓN, CIENCIA Y TECNOLOGÍA
+
+4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico Unidad Presupuestaria y Cifrado Presupuestario Línea de Trabajo 54 Adquisiciones de Bienes y Servicios Gastos Corrientes 05 Educación Básica 15,000,000 15,000,000 2023-3100-3-05-01-21-1 Fondo General Atención a Educación Básica 15,000,000 15,000,000 Total 15,000,000 15,000,000 3200 RAMO DE SALUD
+
+4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico Unidad Presupuestaria y Cifrado Presupuestario Línea de Trabajo 51 Remuneraciones Gastos Corrientes 01 Dirección y Administración Institucional 9,900,000 9,900,000 2023-3200-3-01-03-21-1 Fondo General Gestión Técnico Normativa 9,900,000 9,900,000 Total 9,900,000 9,900,000 3500 RAMO DE CULTURA En el Numeral 3. Relación Propósitos con Recursos Asignados, Unidad Presupuestaria 02 Fomento y Conservación de la Cultura y el Arte, se incorpora la Línea de Trabajo 03 Biblioteca Nacional de El Salvador, con su respectivo propósito conforme se indica a continuación:
+
+3. Relación Propósitos con Recursos Asignados Unidad Presupuestaria y Línea de Trabajo Propósito Costo 02 Fomento y Conservación de la Cultura y el Arte 10,457,040 03 Biblioteca Nacional de El Salvador Equipar y poner en funcionamiento una Biblioteca Nacional de primer nivel, moderna y con tecnología de punta para el fomento del aprendizaje y enriquecimiento del conocimiento de la población salvadoreña. 10,457,040 Total 10,457,040 En el Numeral 4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico, se asignan recursos a la precitada Línea de Trabajo 03 Biblioteca Nacional de El Salvador, conforme se indica a continuación:
+
+4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico 54 61 Gastos Corrientes Gastos de Capital Total Unidad Presupuestaria y Cifrado Presupuestario Línea de Trabajo Adquisiciones de Bienes y Servicios Inversiones en Activos Fijos 02 Fomento y Conservación de la Cultura y el Arte 5,817,040 4,640,000 5,817,040 4,640,000 10,457,040 2023-3500-3-02-03-21-1 Fondo General 03 Biblioteca Nacional de El Salvador 5,817,040 5,817,040 5,817,040 22-1 Fondo General 4,640,000 4,640,000 4,640,000 Total 5,817,040 4,640,000 5,817,040 4,640,000 10,457,040 4100 RAMO DE ECONOMÍA En el Numeral 3. Relación Propósitos con Recursos Asignados, Unidad Presupuestaria 06 Apoyo a Instituciones Adscritas, se incorpora la Línea de Trabajo 10 Agencia Administradora de Fondos Bitcoin, conforme se indica a continuación:
+
+3. Relación Propósitos con Recursos Asignados Unidad Presupuestaria y Línea de Trabajo Propósito Costo 06 Apoyo a Instituciones Adscritas 895,820 10 Agencia Administradora de Fondos Bitcoin Administrar, resguardar, e invertir los fondos provenientes de las ofertas públicas de activos digitales que realice el Estado de El Salvador y sus instituciones autónomas, así como los rendimientos provenientes de dichas ofertas públicas. 895,820 Total 895,820 En el Numeral 4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico, se refuerzan las asignaciones de la Unidad Presupuestaria 01 Dirección y Administración Institucional, Línea de Trabajo 03 Apoyo Administrativo y Financiero, y se asignan recursos a la precitada Línea de Trabajo 10 Ag encia Administradora de Fondos Bitcoin, conforme se indica a continuación:
+
+4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico 54 56 Unidad Presupuestaria y Cifrado Presupuestario Línea de Trabajo Adquisiciones de Bienes y Servicios Transferencias Corrientes Gastos Corrientes 01 Dirección y Administración Institucional 2,210,260 2,210,260 2023-4100-4-01-03-21-1 Fondo General Apoyo Administrativo y Financiero 2,210,260 2,210,260 06 Apoyo a Instituciones Adscritas 895,820 895,820 2023-4100-4-06-10-21-1 Fondo General Agencia Administradora de Fondos Bitcoin 895,820 895,820 Total 2,210,260 895,820 3,106,080 4200 RAMO DE AGRICULTURA Y GANADERIA
+
+4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico Unidad Presupuestaria y Cifrado Presupuestario Línea de Trabajo 54 Adquisiciones de Bienes y Servicios Gastos Corrientes 01 Dirección y Administración Institucional 4,758,235 4,758,235 2023-4200-4-01-02-21-1 Fondo General Administración General Institucional 4,758,235 4,758,235 Total 4,758,235 4,758,235
+
+###### Artículo 2
+
+En la Ley de Presupuesto vigente, Sección B. Presupuestos Especiales, Apartado B.1 Instituciones Descentralizadas No Empresariales, Romano II – GASTOS, se incorpora el Presupuesto Especial de la Agencia Administradora de Fondos Bitcoin correspondiente al ejercicio financiero fiscal 2023, así:
+
+Agencia Administradora de Fondos Bitcoin A. MARCO INSTITUCIONAL
+
+1. Política Administrar, resguardar e invertir los fondos provenientes de las ofertas públicas de activos digitales que realice el Estado de El Salvador y sus instituciones autónomas, así como los rendimientos provenientes de dichas ofertas públicas.
+
+2. Prioridades en la Asignación de Recursos Administrar y custodiar todos los fondos provenientes de las ofertas públicas de activos digitales que realice el Estado de El Salvador o cualquiera de sus instituciones autónomas de manera directa. Invertir diligentemente los fondos provenientes de las ofertas públicas que realice el Estado o cualquiera de sus instituciones autónomas.
+
+3. Objetivos Priorizar la inversión de los fondos administrados, en obras y proyectos públicos que beneficien a toda población.
+
+B. INGRESOS Ingresos Corrientes 1,895,820 14 Venta de Bienes y Servicios 1,000,000 142 Ingresos por Prestación de Servicios Públicos 14299 Servicios Diversos 1,000,000 16 Transferencias Corrientes 895,820 162 Transferencias Corrientes del Sector Público 1624100 Ramo de Economía 895,820 Total 1,895,820 C. ASIGNACIÓN DE RECURSOS
+
+1. Destino del Gasto por Fuente de Financiamiento Código Unidad Presupuestaria Responsable Fondo General Recursos Propios Total 01 Dirección y Administración Institucional Administrador 797,588 797,588 02 Administración, Resguardo e Inversión de Fondos Administrador 98,232 1,000,000 1,098,232 Total 895,820 1,000,000 1,895,820
+
+2. Clasificación Económica Institucional por Área de Gestión Apoyo al Desarrollo Económico Gastos Corrientes 870,820 Gastos de Consumo o Gestión Operativa 856,820 Remuneraciones 156,820 Bienes y Servicios 700,000 Gastos Financieros y Otros 14,000 Seguros, Comisiones y Gastos Bancarios 14,000 Gastos de Capital 1,025,000 Inversiones en Activos Fijos 1,000,000 Bienes Muebles 400,000 Intangibles 600,000 Inversiones Financieras 25,000 Inversiones en Títulos Valores 25,000 Total 1,895,820
+
+3. Relación Propósitos con Recursos Asignados Unidad Presupuestaria y Línea de Trabajo Propósito Costo 01 Dirección y Administración Institucional 797,588 01 Dirección Superior Dirigir y velar por el cumplimiento de los aspectos relacionados al marco normativo de administración, resguardo e inversión de activos digitales. 158,369 02 Administración y Finanzas Realizar la gestión administrativa y financiera, de conformidad con el marco legal vigente, administrando el capital humano, los recursos materiales y los activos digitales con eficiencia, racionalidad y transparencia, a fin de contribuir con el logro de los objetivos institucionales. 639,219 02 Administración, Resguardo e Inversión de Fondos 1,098,232 01 Administración, Resguardo e Inversión de Fondos Administrar, resguardar e invertir los fondos provenientes de las ofertas públicas de activos digitales y los rendimientos provenientes de dichas ofertas públicas. 1,098,232 Total 1,895,820
+
+4. Asignación Presupuestaria por Rubro de Agrupación, Fuente de Financiamiento y Destino Económico Unidad Presupuestaria y Cifrado Presupuestario Línea de Trabajo 51 Remuneraciones 54 Adquisicione s de Bienes y Servicios 55 Gastos Financieros y Otros 61 Inversiones en Activos Fijos 63 Inversiones Financieras Gastos Corrientes Gastos de Capital Total 01 Dirección y Administración Institucional 111,538 251,250 9,800 400,000 25,000 372,588 425,000 797,588 2023-4125-4-01-01-21-1 Fondo General Dirección Superior 35,919 58,250 4,200 98,369 98,369 2023-4 22-1 Fondo General 60,000 60,000 60,000 2023-02-21-1 Fondo General Administración y Finanzas 75,619 193,000 5,600 274,219 274,219 2023-4222-1 Fondo General 340,000 25,000 365,000 365,000 02 Administración, Resguardo e Inversión de Fondos 45,282 448,750 4,200 600,000 498,232 600,000 1,098,232 2023-4125-4-02-01-21-1 Fondo General Administración, Resguardo e Inversión de Fondos 45,282 48,750 4,200 98,232 98,232 2023-21-2 Recursos Propios 400,000 400,000 400,000 2023-22-2 Recursos Propios 600,000 600,000 600,000 Total 156,820 700,000 14,000 1,000,000 25,000 870,820 1,025,000 1,895,820 D. CLASIFICACIÓN DE PLAZAS
+
+1. Estratificación de Plazas a Tiempo Completo Rango Salarial Contratos Plazas Monto 751.00 - 800.99 3 9,600 951.00 - 1,000.99 1 4,000 1,401.00 - 1,500.99 3 18,000 1,701.00 - 1,800.99 2 14,400 1,901.00 - 2,000.99 2 16,000 2,301.00 En Adelante 6 72,000 Total 17 134,000
+
+2. Clasificación del Personal por Actividad a Tiempo Completo Clasificación Contratos Monto Personal Ejecutivo 4 52,000 Personal Técnico 9 68,400 Personal Administrativo 4 13,600 Total 17 134,000
+
+###### Artículo 3. El presente decreto entrará en vigencia desde el día de su publicación en el Diario
+
+Oficial.
+
+DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO. San Salvador, a los cinco días del mes de septiembre del año dos mil veintitrés.
+
+ERNESTO ALFREDO CASTRO ALDANA, PRESIDENTE.
+
+SUECY BEVERLEY CALLEJAS ESTRADA, RODRIGO JAVIER AYALA CLAROS, PRIMERA VICEPRESIDENTA. SEGUNDO VICEPRESIDENTE. GUILLERMO ANTONIO GALLEGOS NAVARRETE, TERCER VICEPRESIDENTE.
+
+ELISA MARCELA ROSALES RAMÍREZ, NUMAN POMPILIO SALGADO GARCÍA, PRIMERA SECRETARIA. SEGUNDO SECRETARIO. REYNALDO ANTONIO LÓPEZ CARDOZA, REINALDO ALCIDES CARBALLO CARBALLO, TERCER SECRETARIO. CUARTO SECRETARIO. CASA PRESIDENCIAL: San Salvador, a los seis días del mes de septiembre de dos mil veintitrés. PUBLÍQUESE, NAYIB ARMANDO BUKELE ORTEZ, Presidente de la República.
+
+JERSON ROGELIO POSADA MOLINA, Ministro de Hacienda.
+
+D. O. N° 166 Tomo N° 440 Fecha: 7 de septiembre de 2023 SR/jah 09-10-2023

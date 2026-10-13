@@ -1,0 +1,98 @@
+---
+title: AUTORÍZASE AL ÓRGANO EJECUTIVO EN EL RAMO DE HACIENDA, TRANSFERIR EN CALIDAD DE DONACIÓN UN INMUEBLE A FAVOR FONDO NACIONAL DE VIVIENDA POPULAR (FONAVIPO)
+identifier: Decreto Legislativo N° 603
+type: decree
+jurisdiction: sv
+language: es
+date: '2011-01-27'
+diario_oficial: D.O. N° 28, Tomo 390, 09/02/2011
+materia: Asamblea Legislativa
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/101
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073227594_archivo_documento_legislativo.pdf
+retrieved: '2026-10-13'
+---
+
+# AUTORÍZASE AL ÓRGANO EJECUTIVO EN EL RAMO DE HACIENDA, TRANSFERIR EN CALIDAD DE DONACIÓN UN INMUEBLE A FAVOR FONDO NACIONAL DE VIVIENDA POPULAR (FONAVIPO)
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): AUTORÍZASE AL ÓRGANO EJECUTIVO EN EL RAMO DE HACIENDA, TRANSFERIR EN CALIDAD DE DONACIÓN UN INMUEBLE A FAVOR FONDO NACIONAL DE VIVIENDA POPULAR (FONAVIPO), UBICADO EN EL DEPARTAMENTO DE SANTA ANA.
+
+DECRETO Nº 603 LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I.- Que la Constitución de la República en el Artículo 119 declara de interés social la construcción de viviendas y establece que el Estado procurará que el mayor número de familias salvadoreñas lleguen a ser propietarias de su vivienda.
+
+II.- Que en el marco del bienestar económico, toda persona tiene derecho a la propiedad y posesión, la cual está reconocida por el Estado en función social, para lo cual el Estado puede disponer de los bienes raíces de la Hacienda Pública a fin de donarlos, darlos en usufructo, comodato o arrendamiento, previa autorización de la Asamblea Legislativa a entidades de utilidad general, precepto constitucional plasmado en el artículo 233 de la Constitución de la República.
+
+III.- Que a fin de reducir el déficit habitacional, el Estado cuenta con instituciones de utilidad pública como lo es el Fondo Nacional de Vivienda Popular FONAVIPO, a la que compete desarrollar programas que contribuyan para que sectores de bajos ingresos económicos tengan oportunidad para que puedan adquirir una vivienda digna por medio de créditos, que les permitan solucionar su problema de vivienda y procurar las condiciones más favorables para el financiamiento habitacional de interés social.
+
+IV.- Que el Estado y Gobierno de El Salvador, en el Ramo de Hacienda, es dueño de un inmueble de naturaleza rústica, hoy urbano, situado según antecedentes en el Cantón Los Chupaderos y por nomenclatura actual sobre Calle Principal, Cuarenta y Siete Calle Poniente, sin número, de la ciudad y departamento de Santa Ana, de una extensión superficial de SESENTA Y SIETE MIL CUATROCIENTOS NOVENTA Y SIETE PUNTO OCHENTA Y CINCO METROS CUADRADOS (67,497.85 M2), del cual ha requerido FONAVIPO que se les transfiera mediante donación, una porción de terreno de una extensión superficial de TREINTA Y SIETE MIL OCHOCIENTOS NOVENTA Y TRES PUNTO DIEZ METROS CUADRADOS (37,893.10 M2), para desarrollar un Proyecto Habitacional que dentro del Plan de Gobierno se realiza, en el marco del Programa Casa para Todos, que se denominará “Urbanización Procavia”.
+
+V.- Que el Consejo de Ministros autorizó al Estado y Gobierno de El Salvador, en el Ramo de Hacienda, mediante Punto de Acta Cuatro, literal J), de la Sesión Número DIEZ, de fecha veintisiete de septiembre de dos mil diez, transferir en carácter de donación a FONAVIPO, una porción del citado inmueble el cual es prescindible para los fines de la Hacienda Pública, pero de gran utilidad para lograr los fines de la mencionada institución autónoma.
+
+POR TANTO, en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda y con el apoyo de los Diputados: Lorena Guadalupe Peña Mendoza, Roberto José d'Aubuisson Munguía, Irma Lourdes Palacios Vásquez, Karla Gisela Abrego Cáceres, Héctor Antonio Acevedo Moreno, Ernesto Antonio Angulo Milla, Félix Agreda Chachagua, Federico Guillermo Avila Qüehl, Eduardo Enrique Barrientos Zepeda, Yohalmo Edmundo Cabrera Chacón, Carmen Elena Calderón Sol de Escalón, Darío Alejandro Chicas Argueta, Norma Cristina Cornejo Amaya, José Alvaro Cornejo Mena, Valentín Arístides Corpeño, Carlos Cortez Hernández, Luis Alberto Corvera Rivas, Blanca Noemí Coto Estrada, Raúl Omar Cuéllar, Nery Arely Díaz de Rivera, Antonio Echeverría Veliz, Emma Julia Fabián Hernández, Carmen Elena Figueroa Rodríguez, Santiago Flores Alfaro, Eduardo Antonio Gomar Moran, Ricardo Bladimir González, Mario Marroquín Mejía, Guillermo Francisco Mata Bennett, Misael Mejía Mejía, Manuel Vicente Menjivar Esquivel, Heidy Carolina Mira Saravia, Ana Virginia Morataya Gómez, Guillermo Antonio Olivo Méndez, Orestes Fredesman Ortez Andrade, Mariela Peña Pinto, Gaspar Armando Portillo Benítez, Zoila Beatriz Quijada Solís, Inmar Rolando Reyes, Santos Adelmo Rivas Rivas, Gilberto Rivera Mejía, Sonia Margarita Rodríguez Sigüenza, Karina Ivette Sosa de Lara, Enrique Alberto Luis Valdés Soto, Ramón Arístides Valencia Arana, Mario Eduardo Valiente Ortiz, María Margarita Velado Puentes y Ana Daysi Villalobos de Cruz. DECRETA:
+
+###### Artículo 1
+
+Autorízase al Órgano Ejecutivo en el Ramo de Hacienda, para donar en forma gratuita, simple e irrevocable a favor del FONDO NACIONAL DE VIVIENDA POPULAR, FONAVIPO, una porción de terreno, de naturaleza rústica, hoy urbana, de una extensión superficial de TREINTA Y SIETE MIL OCHOCIENTOS NOVENTA Y TRES PUNTO DIEZ METROS CUADRADOS (37,893.10 M2), que será desmembrada de un inmueble de mayor extensión superficial, situado según antecedente en el Cantón Los Chupaderos y por nomenclatura actual sobre Calle Principal, Cuarenta y Siete Calle Poniente, sin número, de la ciudad y departamento de Santa Ana, el cual se encuentra inscrito bajo la Matrícula DOS CERO CERO UNO CERO OCHO CINCO SEIS- CERO CERO CERO CERO CERO del Registro de la Propiedad Raíz e Hipotecas de la Primera Sección de Occidente, departamento de Santa Ana. La citada porción de terreno, de conformidad a la revisión y aprobación del plano de desmembración correspondiente por parte de la oficina de Mantenimiento Catastral de la Dirección del Instituto Geográfico y del Catastro Nacional del Centro Nacional de Registros, tiene la descripción técnica siguiente: “Descripción Técnica de una Porción de Terreno Rústico, denominado: Urbanización Procavia, Ubicado sobre Calle Principal y Cuarenta y Siete Calle Poniente, Sin Número, Jurisdicción de Santa Ana; con una extensión superficial de TREINTA Y SIETE MIL OCHOCIENTOS NOVENTA Y TRES PUNTO DIEZ METROS CUADRADOS (37,893.10 M2) equivalentes a CINCUENTA Y CUATRO MIL DOSCIENTOS DIECISIETE PUNTO CUARENTA Y CINCO VARAS CUADRADAS (54,217.45 V2). Descripción que comienza en el Esquinero Nor-Este, mojón al que llamaremos Vértice Número uno, con Coordenadas Geodésicas: LONGITUD Cuatrocientos treinta y ocho mil cuatrocientos cuarenta y uno punto treinta y siete metros y LATITUD Trescientos dieciséis mil ochocientos veintisiete punto sesenta y tres metros, del cual se mide y linda: AL ORIENTE, formado por trece tramos, el tramo uno con rumbo sur dieciocho grados nueve minutos quince segundos oeste y distancia de Veintidós metros veinticinco centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo dos con rumbo sur dieciséis grados seis minutos veintiséis segundos oeste y distancia de veinticuatro metros cuarenta y seis centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo tres con rumbo norte setenta y cuatro grados treinta y nueve minutos y once segundos oeste y distancia cero metros cincuenta y ocho centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo cuatro con rumbo sur diecinueve grados cuatro minutos y diecinueve segundos oeste y distancia de cuatro metros sesenta y ocho centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo cinco con rumbo sur setenta y cuatro grados cuarenta y ocho minutos y cincuenta y un segundos este y distancia de cero metros noventa centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo seis con rumbo sur dieciséis grados siete minutos seis segundos oeste y distancia de cincuenta y cinco metros cuarenta y cuatro centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo siete con rumbo sur dieciséis grados veinticuatro minutos dieciséis segundos oeste y distancia de Sesenta metros sesenta y siete centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo ocho con rumbo sur dieciséis grados cuarenta y tres minutos treinta y siete segundos oeste y distancia de veinticinco metros doce centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo nueve con rumbo sur quince grados trece minutos y veintiséis segundos oeste y distancia de treinta y cuatro metros treinta y un centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo diez con rumbo sur dieciséis grados tres minutos treinta y ocho segundos oeste y distancia de diecinueve metros dieciocho centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo once con rumbo sur catorce grados veintiún minutos diecinueve segundos oeste y distancia de nueve metros veinticuatro centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo doce con rumbo sur dieciocho grados veinte minutos cincuenta y seis segundos oeste y distancia de seis metros treinta y dos centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana, el tramo trece con rumbo sur dieciséis grados treinta y un minutos treinta y seis segundos oeste y distancia de diecisiete metros setenta y tres centímetros. Colinda en este tramo con propiedad de la Alcaldía Municipal de Santa Ana. AL SUR, formado por un tramo, con rumbo norte setenta y tres grados cincuenta y cuatro minutos cuarenta y cuatro segundos oeste y distancia de ciento treinta y cuatro metros veinte centímetros. Colinda en este tramo con resto de terreno general cerco de alambre de púas de por medio. AL PONIENTE, formado por Diecinueve tramos, el tramo uno con rumbo norte catorce grados veintinueve minutos treinta y seis segundos este y distancia de cuatro metros sesenta centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo dos con rumbo norte catorce grados veintinueve minutos treinta y seis segundos este y distancia de tres metros ochenta y siete centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo tres con rumbo norte dieciséis grados cero dos minutos dieciséis segundos este y distancia de veinte metros ochenta centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo cuatro con rumbo norte dieciséis grados once minutos doce segundos este y distancia de veinte metros treinta y un centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo cinco con rumbo norte dieciséis grados dieciocho minutos cero seis segundos este y distancia de dieciocho metros veintinueve centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo seis con rumbo norte dieciséis grados dieciséis minutos diecisiete segundos este y distancia de veinte metros setenta y dos centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo siete con rumbo norte dieciséis grados veinticinco minutos cincuenta y dos segundos este y distancia de dieciocho metros treinta y cuatro centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo ocho con rumbo norte dieciséis grados cero tres minutos cero siete segundos este y distancia de dieciséis metros cincuenta y seis centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo nueve con rumbo norte quince grados cincuenta minutos treinta segundos este y distancia de seis metros ocho centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo diez con rumbo norte diecisiete grados treinta minutos dieciséis segundos este y distancia de cinco metros veinte centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo once con rumbo norte quince grados veintitrés minutos cuarenta y ocho segundos este y distancia de cinco metros veintinueve centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo doce con rumbo norte dieciséis grados veinticuatro minutos treinta y ocho segundos este y distancia de veintidós metros treinta centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo trece con rumbo norte dieciséis grados veinte minutos cincuenta segundos este y distancia veinte metros cuarenta y nueve centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo catorce con rumbo norte dieciséis grados dieciocho minutos quince segundos este y distancia de diecinueve metros setenta centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo quince con rumbo norte dieciséis grados veintiocho minutos cero ocho segundos este y distancia de veinte metros seis centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo dieciséis con rumbo norte dieciséis grados cero cinco minutos treinta y tres segundos este y distancia de veintiséis metros catorce centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo diecisiete con rumbo norte dieciséis grados veintiséis minutos catorce segundos este y distancia de trece metros diez centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo dieciocho con rumbo norte dieciséis grados cero nueve minutos catorce segundos este y distancia de tres metros sesenta y nueve centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio, el tramo diecinueve con rumbo norte dieciséis grados dieciocho minutos once segundos este y distancia de veinte metros tres centímetros. Colinda en este tramo con Colonia San Luis, calle principal de por medio. AL NORTE, formado por un tramo, con rumbo sur setenta y un grados quince minutos treinta y cuatro segundos este y distancia de ciento treinta y cuatro metros sesenta y seis centímetros. Colinda en este tramo con resto de terreno general cerco de alambre de púas de por medio, llegando de esta manera al esquinero sur-oeste donde se inició la presente descripción”.
+
+###### Artículo 2. QUE EL INMUEBLE QUE SE AUTORIZA DONAR, SERÁ UTILIZADO PARA DESARROLLAR
+
+UN PROYECTO HABITACIONAL, EN EL MARCO DEL PROGRAMA CASA PARA TODOS, EL CUAL FORMA PARTE DE PLAN DE GOBIERNO, DENOMINADO “URBANIZACIÓN PROCRAVIA”, CON LA FINALIDAD DE BENEFICIAR CON VIVIENDAS DIGNAS A FAMILIAS DE ESCASOS RECURSOS ECONÓMICOS.
+
+QUE EN EL INMUEBLE MENCIONADO, SE HA DESARROLLADO EL CITADO PROYECTO HABITACIONAL, QUE CONSISTE EN LA CONSTRUCCIÓN DE CUATROCIENTOS DIECISÉIS APARTAMENTOS CON SUS CORRESPONDIENTES ÁREAS DE EQUIPAMIENTO SOCIAL. DICHOS APARTAMENTOS SERÁN VENDIDOS A LAS FAMILIAS BENEFICIADAS, CON EL OBJETO DE SER UTILIZADOS CON FINES ESPECÍFICOS; ES DECIR, PARA QUE POSTERIORMENTE SEA TRANSFERIDO A LAS FAMILIAS SU TÍTULO DE PROPIEDAD, POR MEDIO DE CRÉDITOS QUE LES OTORGUEN LAS INSTITUCIONES AUTORIZADAS. SE AUTORIZA A FONAVIPO PARA QUE LA CONTRIBUCIÓN EN ESPECIE QUE OTORGUE EL ESTADO A FAVOR DE LAS FAMILIAS BENEFICIADAS, CONSISTA EN LLEVAR IMPLÍCITO UN VALOR SIMBÓLICO EL METRO CUADRADO, QUE CORRESPONDE AL ÁREA DEL TERRENO PROPORCIONAL EN EL PROYECTO CONDOMINIO PROCRAVIA, QUE SERÁ EVIDENCIADO EN EL INSTRUMENTO DE COMPRAVENTA, LA CUAL SE EFECTUARÁ SIN APLICAR EL PROCEDIMIENTO QUE ESTABLECE EL PROGRAMA DE CONTRIBUCIÓN PARA VIVIENDA ESTABLECIDO EN LA LEY DEL FONAVIPO. POR TAL CIRCUNSTANCIA, SE AUTORIZA A FONAVIPO A VENDER EL PROYECTO HABITACIONAL, A TRAVÉS DE LAS INSTITUCIONES FINANCIERAS, TALES COMO: FONDO SOCIAL PARA LA VIVIENDA, BANCO DE FOMENTO AGROPECUARIO, BANCO HIPOTECARIO DE EL SALVADOR, S.A., LAS QUE APLICARÁN POLÍTICAS FLEXIBLES Y EN MEJORES CONDICIONES A LAS QUE EL MERCADO OFRECE Y/O A TRAVÉS DE CUALQUIER OTRA INSTITUCIÓN AUTORIZADA.
+
+FACÚLTASE A FONAVIPO PARA QUE PUEDA COMERCIALIZAR, CON LA MODALIDAD DE VENTAS AL CONTADO, A LAS FAMILIAS INTERESADAS. (1) (2)
+
+###### Artículo 3
+
+QUE CON RESPECTO A LA PORCIÓN DEL INMUEBLE REFERIDO QUE SE UTILIZARÁ PARA DESARROLLAR EL PROYECTO HABITACIONAL DENOMINADO “URBANIZACIÓN PROCRAVIA”, EL VALOR SIMBÓLICO DEL METRO CUADRADO SERÁ DE CERO PUNTO CERO UN CENTAVO DE DÓLAR DE LOS ESTADOS UNIDOS DE AMÉRICA ($0.01), SIENDO EL VALOR DEL INMUEBLE EN GENERAL DE TRESCIENTOS SETENTA Y OCHO DÓLARES CON NOVENTA Y TRES CENTAVOS DE DÓLAR DE LOS ESTADOS UNIDOS DE AMÉRICA ($378.93), QUE CORRESPONDE AL ÁREA DE TREINTA Y SIETE MIL OCHOCIENTOS NOVENTA Y TRES PUNTO DIEZ METROS CUADRADOS (37,893.10M2), PARA EFECTOS DE REGISTRO CONTABLE. (2)
+
+###### Artículo 4
+
+Exonérase del pago de los derechos registrales que genere la inscripción de la transferencia, en calidad de donación, del inmueble objeto de este Decreto que se efectuará a favor del Fondo Nacional de Vivienda Popular. Asimismo, exonérase del pago del Impuesto sobre Transferencia de Bienes Raíces, derivado de la transferencia que se otorgue en cumplimiento a este Decreto.
+
+###### Artículo 5
+
+Es responsabilidad del Fondo Nacional de Vivienda Popular, FONAVIPO, el pago de los impuestos, tasas y contribuciones municipales del inmueble descrito en el artículo 1 de este Decreto, a partir de la fecha de formalización de la escritura de donación.
+
+###### Artículo 6
+
+Autorízase al Fiscal General de la República o al funcionario que éste delegue, para que en nombre y representación del Estado y Gobierno de El Salvador, otorgue la Escritura Pública de Donación correspondiente ante Notario que el Fondo Nacional de Vivienda Popular designe.
+
+###### Artículo 7. El presente decreto entrará en vigencia ocho días después de su publicación en el Diario
+
+Oficial.
+
+DADO EN EL SALON AZUL DEL PALACIO LEGISLATIVO:. San Salvador, a los veintisiete días del mes de enero de dos mil once.
+
+CIRO CRUZ ZEPEDA PEÑA, PRESIDENTE.
+
+OTHON SIGFRIDO REYES MORALES, GUILLERMO ANTONIO GALLEGOS NAVARRETE, PRIMER VICEPRESIDENTE. SEGUNDO VICEPRESIDENTE.
+
+JOSÉ FRANCISCO MERINO LÓPEZ, ALBERTO ARMANDO ROMERO RODRÍGUEZ, TERCER VICEPRESIDENTE. CUARTO VICEPRESIDENTE.
+
+FRANCISCO ROBERTO LORENZANA DURAN, QUINTO VICEPRESIDENTE.
+
+LORENA GUADALUPE PEÑA MENDOZA, CESAR HUMBERTO GARCÍA AGUILERA, PRIMERA SECRETARIA. SEGUNDO SECRETARIO.
+
+ELIZARDO GONZÁLEZ LOVO, ROBERTO JOSÉ d'AUBUISSON MUNGUÍA, TERCER SECRETARIO. CUARTO SECRETARIO.
+
+IRMA LOURDES PALACIOS VÁSQUEZ, QUINTA SECRETARIA. SEXTA SECRETARIA.
+
+MARIO ALBERTO TENORIO GUERRERO, SÉPTIMO SECRETARIO.
+
+CASA PRESIDENCIAL: San Salvador, a los ocho días del mes de febrero del año dos mil once. PUBLIQUESE, Carlos Mauricio Funes Cartagena, Presidente de la República.
+
+Juan Ramón Carlos Enrique Cáceres Chávez, Ministro de Hacienda D. O. Nº 28 Tomo Nº 390 Fecha: 9 de febrero de 2011.
+
+CGC/adar 24-2-2011 REFORMAS:
+
+(1) D.L. No. 931, 30 DE NOVIEMBRE DE 2011, D.O. No. 241, T. 393, 23 DE DICIEMBRE DE 2011.
+
+(2) D.L. No. 378, 9 DE MAYO DE 2013.
+
+D.O. No. 99, T. 399, 31 DE MAYO DE 2013.
+
+ROM 20/01/12 SV 04/07/13

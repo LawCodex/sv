@@ -1,0 +1,64 @@
+---
+title: EXONÉRASE DEL PAGO DE IMPUESTOS LA INTRODUCCIÓN AL PAÍS DE EQUIPO Y MATERIAL MÉDICO A FAVOR DE CLUB KIWANIS LOS ROBLES
+identifier: Decreto Legislativo N° 255
+type: decree
+jurisdiction: sv
+language: es
+date: '2013-01-10'
+diario_oficial: D.O. N° 10, Tomo 398, 16/01/2013
+materia: Hacienda y Presupuesto
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/1341
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073313680_archivo_documento_legislativo.pdf
+retrieved: '2026-10-13'
+---
+
+# EXONÉRASE DEL PAGO DE IMPUESTOS LA INTRODUCCIÓN AL PAÍS DE EQUIPO Y MATERIAL MÉDICO A FAVOR DE CLUB KIWANIS LOS ROBLES
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): EXONÉRESE LA INTRODUCCIÓN AL PAÍS DE MATERIAL Y EQUIPO MÉDICO A FAVOR DE CLUB KIWANIS LOS ROBLES, POR LA JORNADA DE OPERACIONES DE LABIO LEPORINO, PALADAR HENDIDO Y JORNADA DENTAL,A REALIZARSE EN EL HOSPITAL NACIONAL DE NIÑOS BENJAMIN BLOOM.
+
+___________________________________________________________________ INDICE LEGISLATIVO DECRETO Nº 255 LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I.- Que el Club Kiwanis Los Robles, es una entidad a política, no lucrativa, ni religiosa, miembro de una entidad internacional de servicio a la comunidad, cuyos objetivos, entre otros, son prestar un servicio altruista y construir mejores comunidades. II.- Que para el logro de sus objetivos han realizad o una alianza con Global Smile Foundation, para apoyar las operaciones de labio le porino, paladar hendido y jornada dental, que se realizarán en el Hospital Na cional de Niños Benjamín Bloom, del 18 al 27 de enero de 2013, en beneficio de pacientes de escasos recursos, para lo cual utilizarán medicamentos y material médico, de oficina, de apoyo y regalos donados, que introducirán al país a su llegada.
+
+III.- Que en dicha jornada participarán médicos y en fermeras, de quienes el Club Kiwanis Los Robles, se hará cargo de los gastos de estadía mientras se desarrolla la jornada médica; y en razón de que la misma no ti ene fines de lucro no se cuenta con los recursos necesarios para hacer efectivo el pago de los derechos migratorios para el ingreso al país de los médicos integrantes que participarán en dicha jornada, así como de la introducción del equipo médico.
+
+IV.- Que de conformidad a las facultades que a esta Asamblea Legislativa le confiere la Constitución de la República, es procedente exonerar del pago de impuestos, incluyendo bodegaje, que pueda causar la introducci ón al país el ingreso del equipo médico, así como los derechos migratorios de los médicos que participarán en dicha jornada.
+
+POR TANTO, en uso de sus facultades constitucionales ya iniciativa del Diputado David Ernesto Reyes Molina. DECRETA:
+
+###### Artículo 1
+
+Exonérase del pago de todo tipo de impuest os, incluyendo bodegaje, a excepción del Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios (IVA), que pueda causar la introducción al país a favor del Club Kiwanis Los Robles, del siguiente equipo médico: 10 ACETAMINOPHEN CHILDRENS LIQUID 160 MG, 4 floz; 10 ACETAMINOPHEN S USPENSION DROPS, INFANT 80 MG; 10 ACETAMINOPHEN, 325 MG TABLETS; 300 ACETAMINOPHEN, 5 00 MG TABLET; 15 AMOXICILLIN/CLAVULANATE POTASSIUM 250 MG; 15 AMOXICILLIN/CLAVULANATE POTASSIUM 400 MG, SUSP, 75 CC; 20 IBUPROFEN (200 MG) TABS; 1 IBUPROFEN, ORAL CHILD SUSPENSION, 100 MG, 5 CC; 20 KETOROLAC INJ; 2 OINTMENT, DOUBLE ANTIBIOTIC; 6 OINTMENT, TRIPLE ANTIBIOTIC; 10 SALINE FOR DILUTION, 30 MI; 8 BUPIVACAINE 25% & 1:200,000 EPINEPHRINE, 10 ML; 6 BUPIVACAINE .5% & 1:200,000 EPINEPHRINE, 30 cc; 1 KENALOG INJ 40MG/ML; 2 OXYMETAZOLINE SPRAY; 2 PAIN EASE MIST CANISTER; 8 XYLOCAINE HCI .5% & 1:200 EPINEPHRINE 5 0 MI; 10 XYLOCAINE HCL 1% & 1:100 ___________________________________________________________________ INDICE LEGISLATIVO EPINEPHRINE 50 ML; 200 ALCOHOL WIPES; 100 APPLICATO R, 6” COTTON TIPPED, STERILE; 9 BAG, STERILE; 5 BAG, DECANTOR; 50 BANDAID; 20 BIPOLAR CORDS; 50 BLADES, RIB BACK, STERILE, CARBON STEEL, SIZE 12; 150 BLADES, RIB BACK, STERILE, CARBON STEEL, SIZE 15; 50 BLADES, STAINLESS STEEL, SIZE 11; 20 BOVIE ELECTROSURGICAL PENCIL; 50 BOVIE, LONG TIP; 20 BOVIE, NEEDLF TIP; 10 BOVIE, SCRATCH PAD; 10 BOVIE, GROUNDING PAD, INFANT; 20 BOVIE, GROUNDING PADS; 50 DERMABOND TOPICAL SKIN ADHESIVE, DVH 12; 25 GAUZE 2X2 STERILE; 100 GAUZE PACKS 4X4 STERILE, 2/PK; 50 GLOVES, STERILE, LATEX, SIZE 8.0, BIOGEL; 100 GLOVES, STERILE, LATEX-FREE, SIZE 6.0; 100 GLOVES, STERILE, LATEX-FREE, SIZE 6.5; 100 GLOVES, STERILE, LATEX-FREF, SIZE 7; 100 GLOVES, STERILE, LATEX-FREE, SIZE 7.5; 30 KURLEX ROLLS, STERILE 3 IN CH; 5 KURLEX ROLLS, STERILE 6 INCH; 20 MARKER, SKIN, PEN; 5 MASTISOL LIQUID, VIALS; 100 NEEDLE 25G 1 ½; 50 NEEDLE, 18G 1 ½; 100 NEEDLE, 27G 1; 5 NEUROSTERILE COTTINOIDS; 30 PACK, STERILE LOCAL PLASTICS SEN44PLSEF; 2 PLASTER BANDAGE FAST; 2 ST-37; 60 STERILIZER INDICATOR GAS STRIPS; 20 STERISTRIPS, ½ INCH; 10 STERISTRIPS, ¼ INCH; 12 SUCTION TUBING, STERILE; 5 SUCTION, YANKAUER, PEDI, STERILE; 5 SUCTION, YANKAUER. ADULT, STERILE; 20 SURGICEL; 5 SWAB, BENZOIN; 20 SWAB, PROVIDINE-iODINE; 300 SWAB, QTIPS, UNSTERILE; 10 SYRINGE, 10 CC, LUER LOCK; 50 SYRINGE, 5CC, LUER LOCK; 30 SYRINGES, 3CC LUER LOCK; 10 TAPE, CLOTH, 1 IN; 5 TAPE, CLOTH, 2 IN; 2 TAPE, PAPER, 1”; 100 TONGUE DEPRESSOR, NON STERILE; 50 TONGUE DEPRESSOR, STERILE; 60 SUTURE, FAST ABS, 5-0 PC1, 1915G; 24 SUTURE, FAST ABS, 6-0 PC1, 1916; 12 SUTURE, MONO CRYL 3-0 PS-2 (27”), Y427H; 24 SUTURE, MONOCRYL 3-0 SH; 24 SUTURE, MONOCRYL 3-0 SHB (27”), YB41G; 36 SUTURE, MONOCRYL 4-0 TF, Y434H; 12 SUTURE, MONOCRYL 4-0 TF, Y434H; 48 SUTURE, MONOCRYL 5-0 P-3 (18”), Y493G; 36 SUTURE, MONOCRYL 6-0 P-1 (18”), Y489G; 24 SUTURE, MONOCRYL, 4-0, PS-4; 24 SUTURE, PDS*II, 4-0 P-3 (18”), Z494G; 24 SUTURE, PDS, 3-0, SH TAPER; 46 SUTURE, PLAIN GUT, 6-0 PC-1 (18”), 19166; 24 SUTURE, PLAIN GUT, 4-0 P-3 (18”); 10 SUTURE, PLAIN GUT, 4-0 PS-2 (18”); 10 ACETAMINOPHEN SUPPOSITORIES, 120 MG; 20 ACETAMINOPHEN SUPPOSITORIES, 650 MG; 10 ACETAMINOPHEN SUPPOSITORIES, 80 MG; 1 ADENOSINE JET; 5 AKWA TEARS; 3 ALBUTEROL INHALER; 1 AMINOPHYLLINE, IV 500 MG, con fecha de caducidad 6/SEPTIEMBRE/2013; 1 AMIODARONE; 30 AMPICILLIN/SULBACTAM INJ 3 GR; 24 ATROPINE FOR INJECTION JET; 3 ATROPINE SULFATE INJECTION. 4 MG/ML; 5 ATROPINE SULFATE INJECTION. 6 MG/ML; 1 CALCIUM CHLORIDE, JET, 10%, 10 ML; 30 CE FAZOLIN INJECTION 1 GRM; 1 CETACAINE SPRAY; 10 CISATRACURIUM; 1 CITRAPH; 1 CLINDAMCYIN F OR INJECTION 600 MG; 3 CLINDAMYCIN INJECTION, 300 MG; 15 DANTROLENE SODIUM FOR INJECTION 20 MG; 60 DEXAMETHASONE 4 MG/ML; 1 DEXTROSE, 50% INJECTION; 1 DIGOXIN; 5 DIPHENHYDRA MINE INJECTION; 1 DOPAMINE HCL INJ 200 MG 5 ML; 7 EPHEDRINE; 1 EPI PEN; 6 EPINEPHRINE INJECTION 1 MG; 1 ESMOLOL; 3 ETOMIDATE INJECTION; 2 FLUMAZENIL; 2 FUROSEMIDE; 3 GENTAMICIN INJECTION, 80MG/2ML; 30 GLYCOPYRROLATE; 1 HEPARIN SODIUM INJECTION; 2 HYDROCORTISONE INJ; 1 ISOPROTERENOL, 5 ML VIAL; 50 KETOROLAC TROMETHAMINE INJECTION 30 MG; 1 LABETOLOL; 1 METHYLPREDNISOLONE; 15 METOCLOPRAMIDE; 1 METPROLOL INJ; 5 NALOXONE HCI AMPLULE, 0.4 MG/ML; 5 NEOSTIGMINE INJECTION 10 ML; 1 NITROGLYCERIN INJECTION, 50MG/10ML; 50 ONDANSETRON HYDROCHLORIDE, PO 4 MG; 10 ONDANSETRON HYDROCHLORIDE, PO 8 MG; 30 ONDANSETRON INJECTION; 2 OXYMETAZOLINE SPRAY; 5 PHENYLEPHRINE FOR INJECTION 1% 10MG; 20 PROPOFOL 10MG/ML INJECTABLE EMULSION -20 ML; 5 PROPOFOL 10MG/ML INJE CTABLE EMULSION -50 ML; 5 RACEPINEPHRINE INHALATION SOLUTION, .05 ML; 15 RANI TIDINE FOR INJECTION 25 MG; 5 ROCURONIUM 10 MG/ML; 10 SEVOFLURANE INHALATION ANESTHETIC -250 ML; 1 SODIUM BICARBONATE 4.2% INJECTION, JET; 1 SODIUM BICARBONATE 8.4% INJE CTION, JET; 10 SODIUM CHLORIDE, 9%, INJECTION -10 ML SYRINGE; 10 SODIUM CHLORIDE, 9%, I NJECTION -5 ML SYRINGE; 25 SODIUM CHLORIDE, BACTERIOSTATIC 9%, 30 ML, INJECTION; 1 ST ERILE WATER FOR DANTROLENE; 10 SUCCINYLCHOLINE CHLORIDE INJECTION; 20 SURGILUBE; 1 XYLOC JELLY; 3 XYLOCAINE 10MG/ML; 3 XYLOCAINE 2% WITH EPINEPHRINE 20cc; 1 CAJA con material médico para anestesia que contiene: agujas, ___________________________________________________________________ INDICE LEGISLATIVO jeringas, termómetros; ST-37 facial scrub y otro; 1 CAJA con material médico para sala que contiene: toallitas de alcohol, bulto quirúrgico-telas, otro y material de apoyo que contiene: bolsas de basura; 1 CAJA con material médico para sala que contiene: guantes, mascarillas, cobertores para zapatos, gorros y otro; 1 CAJA con los siguientes medicamentos: succinilcolina, sevoflurane, lidocaína, motrin, propofol, ketorolaco y material médico que contiene: gazas; 1 CAJA con material de oficina que contiene: cartuchos de tinta, marcadores, papel, lapiceros, grapadoras y regalos que contienen: peluches; 1 CAJA que contiene benco packs; 1 CAJA con material médico que contiene: jer ingas, mascarillas y otro; 1 CAJA que contiene medicamento: ondansetron y material médico: guantes y otro; 1 CAJA que contiene Benco packs con insumos quirúrgicos desechables y 1 CAJA con Benco packs con insumos quirúrgicos desechables. Así como el siguiente material QUE REGRESARA A LOS ESTADOS UNIDOS DE AMÉRICA: 1 CAJA con instrumentos quirúrgicos para labio leporino- 7 equipos y material médico que contiene suturas y otro; y 1 CAJA que contiene material médico: 1 Bovie con accesorios; 3 oximetro de pulso (monitor) con accesorios, material de oficina que contiene: 8 walkie talkie, 2 cartuchos de tinta, 2 camera.
+
+Asimismo, exonérase del pago de derechos migratorios al personal que participará en la misma, los cuales se detallan a continuación: USAMA SAMI HAMDAN, de nacionalidad estadounidense, con número de pasaporte 488158056; CHRISTOPHER JEREMIAH MARTIN BROOS, de nacionalidad estadounidense, con número de pasaporte 464159523; KRISHNA GWYNNW PATEL, de nacionalidad estadounidense, con número de pasaporte 210732531; KYLE RICHARD EBERLIN, de nacionalidad estadounidense, con número de pasaporte 441369792; STEPHEN CHARLES MATURO, de nacionalidad estadounidense, con número de pasaporte 209492433; NICOLE REBECCA ARBOLEDA, de na cionalidad estadounidense, con número de pasaporte 495241633; KATHERINE LEIGH ZALESKI, de na cionalidad estadounidense, con número de pasaporte 473128884; MAUREEN S. CAHILI, de nacionalidad estadounidense, con número de pasaporte 431457219; MARGARET OLGA SIMON, de nacionalidad est adounidense, con número de pasaporte 306066894; LYSTRA MARIE SWIFT, de nacionalidad estadounidense, con número de pasaporte 211107426; CATHY ANN MARIE HANSON-HEATH, de nacionalidad estad ounidense, con número de pasaporte 211221242; ADRIANNA L. KARLIS, de nacionalidad estadounidense, con número de pasaporte 206736072, CHETAN BHUPALI, de nacionalidad estadounidense, con número de pasaporte 476381910; VANITA JINDAL, de nacionalidad estadounidense, con número de pasap orte 492989458; MELISSA MONTIEL POTEMRA, de nacionalidad estadounidense, con número de pasap orte 469632514; KATIE MORGAN PARRISH, de nacionalidad estadounidense, con número de pasaport e 451087947; TANIA ADIB KHARTABIL, de nacionalidad estadounidense, con número de pasaporte 432156401; MIRIAM ILISE BANKS, de nacionalidad estadounidense, con número de pasaporte 216878446 y GRISEL MARIE PEDRAZA-ROSA, de nacionalidad estadounidense, con número de pasaporte 213342305.
+
+Las exenciones concedidas son sin perjuicio de la v igilancia y control que deberán ejercer los organismos fiscales respectivos.
+
+###### Artículo 2
+
+El presente Decreto entrará en vigencia desde el día de su publicación en el Diario Oficial.
+
+DADO EN EL SALON AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los diez días del mes de enero del año dos mil trece.
+
+OTHON SIGFRIDO REYES MORALES, PRESIDENTE. ___________________________________________________________________ INDICE LEGISLATIVO ALBERTO ARMANDO ROMERO RODRÍGUEZ, GUILLERMO ANTONIO GALLEGOS NAVARRETE, PRIMER VICEPRESIDENTE. SEGUNDO VICEPRESIDENTE.
+
+JOSÉ FRANCISCO MERINO LÓPEZ, FRANCISCO ROBERTO LOREN ZANA DURÁN, TERCER VICEPRESIDENTE. CUARTO VICEPRESIDENTE.
+
+ROBERTO JOSÉ d’AUBUISSON MUNGUÍA, QUINTO VICEPRESIDENTE.
+
+LORENA GUADALUPE PEÑA MENDOZA, CARMEN ELENA CALDERÓN SOL DE ESCALÓN, PRIMERA SECRETARIA. SEGUNDA SECRETARIA.
+
+SANDRA MARLENE SALGADO GARCÍA, JOSÉ RAFAEL MAC HUCA ZELAYA, TERCERA SECRETARIA. CUARTO SECRETARIO.
+
+IRMA LOURDES PALACIOS VÁSQUEZ, MARGARITA ESCOBAR, QUINTA SECRETARIA. SEXTA SECRETARIA.
+
+FRANCISCO JOSÉ ZABLAH SAFIE, REYNALDO ANTONIO LÓPEZ CARDOZA, SÉPTIMO SECRETARIO. OCTAVO SECRETARIO.
+
+Casa Presidencial: San Salvador, a los quince días del mes de enero del año dos mil trece. PUBLÍQUESE, Carlos Mauricio Funes Cartagena, Presidente de la República.
+
+Juan Ramón Carlos Enrique Cáceres Chávez, Ministro de Hacienda.
+
+D. O. No. 10 TOMO No. 398 FECHA: 16 de enero de 2013 FNM/geg 13-02-2013

@@ -1,0 +1,100 @@
+---
+title: ESTABLÉCESE LÍMITES TERRITORIALES ENTRE LOS MUNICIPIOS DE EL PORVENIR Y SANTA ANA, AMBOS DEL DEPARTAMENTO DE SANTA ANA
+identifier: Decreto Legislativo N° 696
+type: decree
+jurisdiction: sv
+language: es
+date: '2017-06-08'
+diario_oficial: D.O. N° 117, Tomo 415, 26/06/2017
+materia: Gobierno Local
+status: unknown
+source: https://www.asamblea.gob.sv/leyes-y-decretos/view/2996
+source_pdf: https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073745444_archivo_documento_legislativo.pdf
+retrieved: '2026-10-13'
+---
+
+# ESTABLÉCESE LÍMITES TERRITORIALES ENTRE LOS MUNICIPIOS DE EL PORVENIR Y SANTA ANA, AMBOS DEL DEPARTAMENTO DE SANTA ANA
+
+> Texto del documento PDF del Centro de Documentación Legislativa de la Asamblea Legislativa.
+>
+> Resumen (Asamblea Legislativa): ESTABLÉCESE LÍMITES TERRITORIALES ENTRE LOS MUNICIPIOS DE EL PORVENIR Y SANTA ANA, AMBOS DEL DEPARTAMENTO DE SANTA ANA.
+
+INDICE LEGISLATIVO 1 DECRETO N° 696 LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+
+I.- Que la existente delimitación entre los Municipios que comprenden el Departamento de Santa Ana, no se ajusta al presente desarrollo de la tecnología en materia registral y de medición territorial; como tampoco a las vigentes circunstancias de desarrollo social y económico del país.
+
+II.- Que con la tecnología registral y los modelos fotogramétricos actualmente disponibles por el Centro Nacional de Registros; es posible la realización de una delimitación y demarcación precisa de dichos límites.
+
+III.- Que se ha desarrollado un proceso de diálogo entre las municipalidades involucradas con la asistencia del Centro Nacional de Registros y del Instituto Geográfico y del Catastro Nacional, llegando así de esta manera a la elaboración y firma del Acta de Límite Municipal EL PORVENIR - SANTA ANA con referencia N ° 0205 - 0210, la cual se toma como base para el contenido del presente Decreto y se anexa como parte integral del mismo.
+
+IV.- Que de conformidad al Art. 131 Ordinal 5° de la Constitución es competencia d e este Órgano del Estado decretar, interpretar auténticamente, reformar y derogar Leyes secundarias.
+
+POR TANTO, en uso de sus facultades Constitucionales y a iniciativa de los Diputados Guadalupe Antonio Vásquez Martínez, Carlos Armando Reyes Ramos y de los ex Diputados Carlos Cortez Hernández, Mario Eduardo Valiente Ortiz, Nery Arely Díaz Aguilar, Manuel Vicente Menjívar, Ana Daysi Villalobos Membreño (Período 2012 – 2015).
+
+DECRETA:
+
+###### Artículo 1
+
+Se establece como Límite entre los Municipios de El Porven ir y Santa Ana, ambos del Departamento de Santa Ana, el siguiente:
+
+El trazo del límite está formado por nueve trayectos. El primer trayecto formado por un tramo, determinado con dos puntos, numerados del uno al dos, por linderos de parcelas; el segundo trayecto, formado por un tramo, determinado con dos puntos, numerados del dos al tres, por elemento natural hidrográfico; el tercer trayecto formado por un solo tramo, determinado con dos puntos, numerados del tres al cuatro, por linderos de parcelas; el cuarto trayecto, formado por cuatro tramos, determinado con cinco punto s, numerados del cuatro al ocho, por vía de comunicación terrestre; el quinto trayecto formado por un tramo, determinado con dos puntos, numerados del ocho al nueve, por linderos de parcelas; el sexto trayecto formado por un solo tramo, determinado con dos INDICE LEGISLATIVO 2 puntos, numerados del nueve al diez, por vía de comunicación terrestre; el séptimo trayecto formado por un solo tramo, determinado con dos puntos, numerados del diez al once, por linderos de parcelas; el octavo trayecto formado por dos tramos, determinad o con tres puntos, numerados del once al trece, por vía de comunicación terrestre; el noveno y último trayecto formado por un solo tramo, determinados con dos puntos, numerados del trece al catorce, por linderos de parcelas.
+
+Punto trifinio de inicio. Está definido en la intercepción del eje izquierdo de la calle vecinal que del Casco de la Hacienda El Guarero conduce al Plan del Hoyo, con el eje central de una calle vecinal que conduce a la Hacienda Ayutica, lugar donde se ubica el punto número uno, al mi smo tiempo trifinio para los Municipios de Candelaria de La Frontera, Santa Ana y El Porvenir, todos pertenecientes al Departamento de Santa Ana. Sus coordenadas son Longitud igual, cuatrocientos treinta y tres mil quinientos cuarenta y nueve punto cincuenta y tres metros; Latitud igual, trescientos veintiséis mil cuatrocientos uno punto cuarenta y cinco metros. Sus colinda ntes son, para el Municipio de Candelaria de La Frontera, parcela doscientos veintidós, del sector cero dos cero uno R doce; para el Municipio de Santa Ana, parcela cuatrocientos sesenta y cuatro, del sector cero dos cero uno R doce y para el Municipio de El Porvenir, parcela doscientos cuarenta y nueve, del sector cero dos cero uno R doce.
+
+Trayecto Uno Tramo único, del punto número uno al punto número dos. Con rumbo Suroeste, en línea quebrada, por linderos de parcelas, hasta interceptar el eje central de la Quebrada Ayutica, lugar donde se ubica el punto número dos, con una distancia aproximada de mil s etecientos setenta y cinco punto veintiséis metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y tres mil trescientos cincuenta y nueve punto noventa metros; Latitud igual, trescientos veinticinco mil ciento treinta y siete punto cuarenta y nueve metros. Sus colindantes son, para el Municipio de El Porvenir, parcelas doscientos cuarenta y nueve, doscientos cuarenta y siete, doscientos cincuenta, doscientos cincuenta y uno, doscientos cincuenta y dos, doscientos cincuenta y tres (se hace la ac laración que todas las parcelas antes descritas, son colindantes con el eje izquierdo de la calle que del Casco de la Hacienda El Guarero conduce al Plan del Hoyo), seiscientos nueve, trescientos uno y trescientos dos, todas del sector cero dos cero uno R doce; para el Municipio de Santa Ana, parcelas cuatrocientos sesenta y cuatro, doscientos dieciséis, doscientos diecisiete, doscientos dieciocho, doscientos cincuenta y cuatro, doscientos noventa y nueve y ciento cincuenta y dos, todas del sector cero dos cero uno R doce, parcela mil sesenta, del sector cero dos diez R cero nueve.
+
+Trayecto Dos Tramo único, del punto número dos al punto número tres. Con rumbo Suroeste, en línea sinuosa, por el eje central de la Quebrada Ayutica, aguas abajo, hasta interceptar la prolongación del lindero Norte de la parcela cuatrocientos treinta y cuatro, del sector cero dos cero uno R doce, lugar donde se ubica el punto número tres, con una distancia aproximada de ciento noventa y siete punto treinta y ocho metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y tres mil doscientos treinta y dos punto setenta y cinco metros; Latitud igual, trescientos veinticinco mil veintiuno punto cuarenta y cuatro metros. Sus colind antes son, para el Municipio de El Porvenir, parcelas doscientos ochenta y cuatrocientos treinta y siete, ambas del sector cero dos cero uno R doce; para el Municipio INDICE LEGISLATIVO 3 de Santa Ana, parcela ciento cincuenta y dos, del sector cero dos cero uno R doce y parce la mil sesenta, del sector cero dos diez R cero nueve.
+
+Trayecto Tres Tramo único, del punto número tres al punto número cuatro. Con rumbo Sureste, en línea quebrada, por linderos de parcelas, hasta interceptar el eje central de la calle vecinal que de la Lotificación El Ángel, conduce a la Carretera Panamericana (CA -1), lug ar donde se ubica el punto número cuatro, con una distancia aproximada de trescientos cincuenta punto cero metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y tres mil doscientos ochenta y siete punto veinticinco metros; Latitud igual, tres cientos veinticuatro mil ochocientos noventa punto veintinueve metros. Sus colindantes son, para el Municipio de El Porvenir, parcela cuatrocientos treinta y cuatro, del sector cero dos cero uno R doce; para el Municipio de Santa Ana, parcelas mil sesenta y mil veintiocho, ambas del sector cero dos diez R cero nueve.
+
+Trayecto Cuatro Tramo uno, del punto número cuatro al punto número cinco. Con rumbo Suroeste, en línea sinuosa, por el eje central de la calle vecinal que de la Lotificación El Ángel, conduc e a la Carretera Panamericana (CA-1), hasta interceptar el eje central de la referida carretera, lugar donde se ubica el punto número cinco, con una distancia aproximada de quinientos cuarenta y ocho punto setenta y ocho metros. Sus coordenadas son Longit ud igual, cuatrocientos treinta y dos mil ochocientos uno punto cincuenta y cuatro metros; Latitud igual, trescientos veinticuatro mil setecientos trece punto cincuenta y tres metros. Sus colindantes son, para el Municipio de El Porvenir, parcelas cuatrocientos treinta y cuatro y cuatrocientos treinta y cinco, ambas del sector cero dos cero uno R doce; para el Municipio de Santa Ana, parcelas que corresponde a la Lotificación El Ángel, todas del sector cero dos diez R cero nueve.
+
+Tramo dos, del punto número cinco al punto número seis. Con rumbo Sureste, en línea sinuosa, por el eje central de la Carretera Panamericana (CA -1), hasta interceptar el eje central de la calle vecinal que de la referida carretera, conduce al Cantón y Caserío El Rosario, lugar donde se ubica el punto número seis, con una distancia aproximada de doscientos cuatro punto catorce metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y dos mil novecientos ochenta y tres punto sesenta metros; Latitud igual, trescientos veinticuatro mil seiscientos veinticinco punto treinta y siete metros. Sus colindantes son, para el Municipio de El Porvenir, parcelas cuarenta y ocho y setenta y nueve, ambas del sector cero dos cero cinco R cero cuatro ; para el Municipio de Santa Ana, parcelas que corresponde a la Lotificación El Ángel, todas del sector cero dos diez R cero nueve.
+
+Tramo tres, del punto número seis al punto número siete. Con rumbo Suroeste, en línea sinuosa, por el eje central de la ca lle vecinal que de la Carretera Panamericana, conduce al Cantón y Caserío El Rosario, hasta interceptar el eje central de la calle que del lugar conocido como El Chagüitón conduce a la Lotificación Las Gaviotas, lugar donde se ubica el punto número siete, con una distancia aproximada de mil ochocientos seis punto veintisiete metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y dos mil seiscientos noventa y tres punto ochenta metros; Latitud igual, trescientos veintidós mil novecientos veintic inco punto cincuenta y nueve metros. Sus colindantes son, para el Municipio de El Porvenir, parcelas cuarenta y ocho, cuatrocientos cincuenta y INDICE LEGISLATIVO 4 ocho y trescientos cuatro, todas del sector cero dos cero cinco R cero cuatro, parcela ocho, del sector cero dos cero cinco R cero seis; para el Municipio de Santa Ana, parcelas veinticinco, veinticuatro y siete, todas del sector cero dos diez R cero nueve , parcela veintiséis, del sector cero dos diez R diecisiete.
+
+Tramo cuatro, del punto número siete al punto número ocho. Con rumbo Noreste, en línea sinuosa, por el eje central de la calle vecinal que del lugar conocido como Chagüitón conduce a la Lotificación Las Gaviotas, hasta interceptar la prolongación del lindero Oriente de la parcela mil cuarenta y dos, del sector cero dos diez R diecisiete, lugar donde se ubica el punto número ocho, con una distancia aproximada de quinientos ochenta y ocho punto s esenta y cinco metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y tres mil doscientos veintiocho punto cero seis metros; Latitud igual, trescientos veintidós mil novecientos noventa y dos punto treinta y seis metros. Sus colindantes son, p ara el Municipio de El Porvenir, parcela uno, del sector cero dos cero cinco R cero seis, parcela mil cuarenta y dos, del sector cero dos diez R diecisiete; para el Municipio de Santa Ana, parcela veintiséis, del sector cero dos diez R diecisiete.
+
+Trayecto Cinco Tramo único, del punto número ocho al punto número nueve. Con rumbo Sureste, en línea quebrada, por linderos de parcelas, hasta interceptar el eje central de la calle vecinal que del Asentamiento Comunitario San Rafael La Parada, conduce a la Lotificación Agrícola San Rafael La Parada, lugar donde se ubica el punto número nueve, con una distancia aproximada de dos mil ciento veintiséis punto veinte metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y tres mil quinientos cuatro punto noventa y siete metros; Latitud igual, trescientos veintiún mil cuatrocientos veintisiete punto cuarenta y ocho metros. Sus colindantes son, para el Municipio de El Porvenir, parcelas mil cuarenta y dos y mil cuarenta y tres, del sector cero dos diez R diecisiete, parcela uno, del sector cero dos cero cinco R cero ocho; parcelas que corresponde a la Lotificación Agrícola San Rafael La Parada, numeradas consecutivamente desde la mil cincuenta y nueve hasta la número mil ochenta y cinco, todas del sector cero dos die z R diecisiete; para el Municipio de Santa Ana, parcelas mil trescientos ocho, dieciséis, veintinueve, novecientos quince, seiscientos treinta y uno, cincuenta y uno, treinta y dos, treinta y tres, cincuenta y dos, cien, ciento sesenta y dos, ciento sesent a, ciento cincuenta y nueve, ciento cincuenta y siete y mil ciento cuarenta y nueve, todas del sector cero dos diez R diecisiete.
+
+Trayecto Seis Tramo único, del punto número nueve al punto número diez. Con rumbo Suroeste, en línea sinuosa, por el eje central de la calle vecinal que del Asentamiento Comunitario San Rafael La Parada, conduce a la Lotificación Agrícola San Rafael La Parada , hasta interceptar la prolongación del lindero Norte de la parcela cuarenta y ocho, del sector cero dos diez R diecis iete, lugar donde se ubica el punto número diez, con una distancia aproximada de noventa y uno punto ochenta y tres metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y tres mil cuatrocientos ochenta y dos punto cuarenta metros; Latitud igual, trescientos veintiún mil trescientos sesenta y cinco punto cero metros. Sus colindantes son, para el Municipio de El Porvenir, parcela mil ochenta y cinco, del sector cero dos diez R diecisiete; para el Municipio de Santa Ana, parcela mil trescientos u no, del sector cero dos diez R diecisiete.
+
+INDICE LEGISLATIVO 5 Trayecto Siete Tramo único, del punto número diez al punto número once. Con rumbo Suroeste, en línea quebrada, por linderos de parcelas, hasta interceptar el eje central de la calle vecinal que de la Lotificación Agrícola San Rafael La Parada conduce a la Lotificación La Esperanza, lugar donde se ubica el punto número once, con una distancia aproximada de novecientos cincuenta y seis punto sesenta y siete metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y dos mil ochocientos diez punto cincuenta metros; L atitud igual, trescientos veinte mil ochocientos sesenta y ocho punto catorce metros. Sus colindantes son, para el Municipio de El Porvenir, parcelas mil ciento cuarenta y siete, mil ciento cuarenta y seis, mil trescientos, seiscientos noventa y dos y sese nta, todas del sector cero dos diez R diecisiete; para el Municipio de Santa Ana, parcelas cuarenta y ocho, cincuenta y seis y veinticuatro, todas del sector cero dos diez R diecisiete.
+
+Trayecto Ocho Tramo uno, del punto número once al punto número doce. Con rumbo Sureste, en línea sinuosa, por el eje central de la calle vecinal que de la Lotificación Agrícola San Rafael La Parada conduce a la Lotificación La Esperanza, hasta interceptar el eje central de la calle vecinal que del Cantón y Caserío El Rosario conduce al P ueblo de El Porvenir, lugar donde se ubica el punto número doce, con una distancia aproximada de ochenta y uno punto ochenta y seis metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y dos mil ochocientos treinta y dos punto veintinueve metros; Latitud igual, trescientos veinte mil setecientos ochenta y nueve punto cuarenta y siete metros. Sus colindantes son, para el Municipio de El Porvenir, parcela ochenta y nueve del sec tor cero dos cero cinco R cero ocho; para el Municipio de Santa Ana, parcela veinticuatro, del sector cero dos diez R diecisiete.
+
+Tramo dos, del punto número doce al punto número trece. Con rumbo Suroeste, en línea sinuosa, por el eje central de la calle vecinal que del Cantón y Caserío El Rosario conduce al Pueblo de El Porvenir, hasta interceptar la prolongación del lindero Oriente de la parcela sesenta y siete del sector cero dos cero cinco R cero ocho, lugar donde se ubica el punto número trece, con una distancia aproximada de cuatrocientos cuatro punto treinta y ocho metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y dos mil cuatrocientos veintinueve punto noventa y tres metros; Latitud igual, trescientos veinte mil setecientos ochenta y dos punto setenta y siete metros. Sus colindantes son, para el Municipio de El Porvenir, parcelas ochenta y nueve y once, ambas del sector cero dos cero cinco R cero ocho; para el Municipio de Santa Ana, parcela trescientos sesenta y cuatro, del sector cero dos diez R veintitrés.
+
+Trayecto Nueve Tramo único, del punto número trece al punto número catorce. Con rumbo Suroeste, en línea quebrada, por linderos de parcelas, hasta interceptar el eje central de la calle vecinal que de la Finca El Rosario conduce a la Carretera Panamericana, lugar donde se ubica el punto número catorce, con una distancia aproximada de mil cuatrocientos treinta punto veintisiete metros. Sus coordenadas son Longitud igual, cuatrocientos treinta y dos mil ciento setenta y uno punto sesenta y nueve metros; Latitud igual, tres cientos diecinueve mil quinientos ocho punto veinticinco metros. Sus colindantes INDICE LEGISLATIVO 6 son, para el Municipio de El Porvenir, parcelas sesenta y siete, sesenta y ocho, sesenta y nueve, setenta, setenta y uno, noventa y dos, noventa y tres, ciento siete y setenta y dos, todas del sector cero dos cero cinco R cero ocho; para el Municipio de Santa Ana, parcelas trescientos sesenta y cuatro y cuatro, ambas del sector cero dos diez R veintitrés.
+
+Punto trifinio de llegada. El punto de llegada será el que se describe como número catorce, el cual al mismo tiempo es punto trifinio para los Municipios de El Porvenir, Santa Ana y San Sebastián Salitrillo, todos pertenecientes al Departamento de Santa An a. Sus colindantes son, para el Municipio de El Porvenir, parcela setenta y dos, del sector cero dos cero cinco R cero ocho; para el Municipio de Santa Ana, parcela cuatro, del sector cero dos diez R veintitrés y para el Municipio de San Sebastián Salitrillo, parcela seis, del sector cero dos cero nueve R cero uno.
+
+###### Artículo 2
+
+El presente Decreto entrará en vigencia ocho días después de su publicación en el Diario Oficial.
+
+DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los ocho días del me s de junio del año dos mil diecisiete.
+
+GUILLERMO ANTONIO GALLEGOS NAVARRETE, PRESIDENTE.
+
+LORENA GUADALUPE PEÑA MENDOZA, DONATO EUGENIO VAQUERANO RIVAS, PRIMERA VICEPRESIDENTA. SEGUNDO VICEPRESIDENTE.
+
+JOSÉ FRANCISCO MERINO LÓPEZ, RODRIGO ÁVILA AVILÉS, TERCER VICEPRESIDENTE. CUARTO VICEPRESIDENTE.
+
+SANTIAGO FLORES ALFARO, QUINTO VICEPRESIDENTE.
+
+GUILLERMO FRANCISCO MATA BENNETT, RENÉ ALFREDO PORTILLO CUADRA, PRIMER SECRETARIO. SEGUNDO SECRETARIO.
+
+FRANCISCO JOSÉ ZABLAH SAFIE, REYNALDO ANTONIO LÓPEZ CARDOZA, TERCER SECRETARIO. CUARTO SECRETARIO.
+
+JACKELINE NOEMÍ RIVERA ÁVALOS, SILVIA ESTELA OSTORGA DE ESCOBAR, QUINTA SECRETARIA. SEXTA SECRETARIA.
+
+MANUEL RIGOBERTO SOTO LAZO, JOSÉ SERAFÍN ORANTES RODRÍGUEZ, SÉPTIMO SECRETARIO. OCTAVO SECRETARIO.
+
+INDICE LEGISLATIVO 7 CASA PRESIDENCIAL: San Salvador, a los veintiún días del mes de junio del año dos mil diecisiete.
+
+PUBLÍQUESE, Salvador Sánchez Cerén, Presidente de la República.
+
+Ramón Arístides Valencia Arana, Ministro de Gobernación y Desarrollo Territorial.
+
+D. O. N° 117 Tomo N° 415 Fecha: 26 de junio de 2017 SP/geg 20-07-2017 INDICE LEGISLATIVO
